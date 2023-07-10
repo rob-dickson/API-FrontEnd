@@ -1,5 +1,5 @@
 
-
+// function to be called onClick
 function getInfo() {
     let domain = document.querySelector('#domain').value
     let username = document.querySelector('#username').value
@@ -9,13 +9,6 @@ function getInfo() {
     let ConsumerID = "1807430a-9b0c-4a10-8ad8-341616d058fa"
 
     let url = `https://admin.chi.v6.pressero.com/api/site/${domain}/Assets `
-
-    // console.log(domain)
-    // console.log(username)
-    // console.log(password)
-    // console.log(jsonfile)
-    // console.log(SubscriberId)
-    // console.log(ConsumerID)
 
     // Retrieve the authentication token
     fetch('https://adminc.pro-matters.com/api/V2/Authentication', {
@@ -33,13 +26,16 @@ function getInfo() {
         .then(response => response.json())
         .then(authData => {
             //console.log(authData);
+
             // Check if authentication was successful
             if (authData.Token) {
                 //console.log(authData.Token);
+
                 // Read the JSON file
                 fetch(jsonfile)
                     .then(response => response.json())
                     .then(data => {
+
                         // Define the delay between each request (in milliseconds)
                         const delay = 2000; // 2sec
 
@@ -64,6 +60,7 @@ function getInfo() {
                             })
                                 .then(response => response.json())
                                 .then(responseData => {
+
                                     // Handle the response data
                                     console.log(responseData);
 
@@ -73,6 +70,7 @@ function getInfo() {
                                     }, delay);
                                 })
                                 .catch(error => {
+
                                     // Handle any errors that occurred during the POST request
                                     console.error('Error:', error);
 
@@ -87,15 +85,18 @@ function getInfo() {
                         sendPostRequests(data, 0);
                     })
                     .catch(error => {
+
                         // Handle any errors that occurred while reading the JSON file
                         console.error('Error:', error);
                     });
             } else {
+
                 // Handle authentication failure
                 console.error('Authentication failed:', authData.error);
             }
         })
         .catch(error => {
+
             // Handle any errors that occurred during the authentication process
             console.error('Error:', error);
         });
