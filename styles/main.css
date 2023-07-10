@@ -1,0 +1,26 @@
+.formSection {
+    margin: 3em auto auto;
+    padding: 2em;
+    width: 50em;
+    background: #f7e8b0;
+
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+}
+
+label,
+input,
+textarea,
+div,
+select,
+button {
+    padding: .5em;
+}
+
+button {
+    margin-top: 1em;
+    background-color: red;
+}

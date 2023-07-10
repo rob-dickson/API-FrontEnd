@@ -1,0 +1,90 @@
+
+
+function getInfo() {
+    let domain = document.querySelector('#domain').value
+    let username = document.querySelector('#username').value
+    let password = document.querySelector('#password').value
+    let jsonfile = document.querySelector('#jsonfile').value
+    let SubscriberId = "7b4c94dc-b43e-4a2d-833a-58a6456148a2"
+    let ConsumerID = "1807430a-9b0c-4a10-8ad8-341616d058fa"
+
+    let url = `https://admin.chi.v6.pressero.com/api/site/${domain}/Assets `
+
+    // console.log(domain)
+    // console.log(username)
+    // console.log(password)
+    // console.log(jsonfile)
+    // console.log(SubscriberId)
+    // console.log(ConsumerID)
+
+    // Retrieve the authentication token
+    fetch('https://adminc.pro-matters.com/api/V2/Authentication', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            username: username,
+            password: password,
+            SubscriberId: SubscriberId,
+            ConsumerID: ConsumerID
+        })
+    })
+    // .then(response => response.json())
+    // .then(data => {
+    //   console.log(data); // Log the parsed response data
+    // })
+    // .catch(error => {
+    //     console.error('Error:', error);
+    // });
+    .then(response => response.json())
+    .then(authData => {
+        //console.log(authData);
+        // Check if authentication was successful
+        if (authData.Token) {
+            //console.log(authData.Token);
+            // Read the JSON file
+            fetch(jsonfile)
+                .then(response => response.json())
+                .then(data => {
+                    // Iterate over each object in the JSON array
+                    data.forEach(obj => {
+                        // Convert the object to JSON string
+                        const json = JSON.stringify(obj);
+
+                        // Send the POST request with credentials
+                        fetch(url, {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json',
+                                'Authorization': 'token ' + authData.Token
+                            },
+                            body: json
+                        })
+                            .then(response => response.json())
+                            .then(responseData => {
+                                // Handle the response data
+                                console.log(responseData);
+
+                            })
+                            .catch(error => {
+                                // Handle any errors that occurred during the POST request
+                                console.error('Error:', error);
+                            });
+                    });
+                })
+                .catch(error => {
+                    // Handle any errors that occurred while reading the JSON file
+                    console.error('Error:', error);
+                });
+        } else {
+            // Handle authentication failure
+            console.error('Authentication failed:', authData.error);
+        }
+    })
+    .catch(error => {
+        // Handle any errors that occurred during the authentication process
+        console.error('Error:', error);
+    });
+
+}

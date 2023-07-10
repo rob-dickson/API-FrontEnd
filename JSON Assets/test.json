@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Timeline Cards - Ancient Civilization",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AHS/1H-1Ancient-Timeline Cards-Purple.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "440c0000-569f-0050-05af-08db0a0a9f01",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Teacher Handouts - Ancient Civilization",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AHS/1H-1Ancient-Teacher Handouts.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "440c0000-569f-0050-ff6b-08db0a0a9f16",
+        "AssetCategoryId": null
+    }
+]
