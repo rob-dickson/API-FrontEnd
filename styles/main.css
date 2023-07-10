@@ -1,14 +1,21 @@
+
 .formSection {
     margin: 3em auto auto;
     padding: 2em;
     width: 50em;
-    background: #f7e8b0;
+    background: rgba(210, 42, 48, 1);;
 
+}
+
+form {
+    background-color: white;
+    padding: 1em;
 }
 
 fieldset {
     display: flex;
     flex-direction: column;
+    font-family: fantasy;
 }
 
 label,
@@ -20,7 +27,11 @@ button {
     padding: .5em;
 }
 
-button {
-    margin-top: 1em;
-    background-color: red;
+.btn {
+    transition: all .2s ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.2);
+    padding-left: 3.8em;
 }

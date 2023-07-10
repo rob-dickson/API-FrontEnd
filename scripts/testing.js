@@ -30,61 +30,74 @@ function getInfo() {
             ConsumerID: ConsumerID
         })
     })
-    // .then(response => response.json())
-    // .then(data => {
-    //   console.log(data); // Log the parsed response data
-    // })
-    // .catch(error => {
-    //     console.error('Error:', error);
-    // });
-    .then(response => response.json())
-    .then(authData => {
-        //console.log(authData);
-        // Check if authentication was successful
-        if (authData.Token) {
-            //console.log(authData.Token);
-            // Read the JSON file
-            fetch(jsonfile)
-                .then(response => response.json())
-                .then(data => {
-                    // Iterate over each object in the JSON array
-                    data.forEach(obj => {
-                        // Convert the object to JSON string
-                        const json = JSON.stringify(obj);
+        .then(response => response.json())
+        .then(authData => {
+            //console.log(authData);
+            // Check if authentication was successful
+            if (authData.Token) {
+                //console.log(authData.Token);
+                // Read the JSON file
+                fetch(jsonfile)
+                    .then(response => response.json())
+                    .then(data => {
+                        // Define the delay between each request (in milliseconds)
+                        const delay = 2000; // 2sec
 
-                        // Send the POST request with credentials
-                        fetch(url, {
-                            method: 'POST',
-                            headers: {
-                                'Content-Type': 'application/json',
-                                'Authorization': 'token ' + authData.Token
-                            },
-                            body: json
-                        })
-                            .then(response => response.json())
-                            .then(responseData => {
-                                // Handle the response data
-                                console.log(responseData);
+                        // Function to send the POST requests with a delay
+                        const sendPostRequests = (dataArray, index) => {
+                            if (index >= dataArray.length) {
+                                // All requests have been sent
+                                console.log('All requests have been sent.');
+                                return;
+                            }
 
+                            const obj = dataArray[index];
+                            const json = JSON.stringify(obj);
+
+                            fetch(url, {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/json',
+                                    'Authorization': 'token ' + authData.Token
+                                },
+                                body: json
                             })
-                            .catch(error => {
-                                // Handle any errors that occurred during the POST request
-                                console.error('Error:', error);
-                            });
+                                .then(response => response.json())
+                                .then(responseData => {
+                                    // Handle the response data
+                                    console.log(responseData);
+
+                                    // Increment the index and send the next request after the delay
+                                    setTimeout(() => {
+                                        sendPostRequests(dataArray, index + 1);
+                                    }, delay);
+                                })
+                                .catch(error => {
+                                    // Handle any errors that occurred during the POST request
+                                    console.error('Error:', error);
+
+                                    // Increment the index and send the next request after the delay
+                                    setTimeout(() => {
+                                        sendPostRequests(dataArray, index + 1);
+                                    }, delay);
+                                });
+                        };
+
+                        // Start sending the POST requests
+                        sendPostRequests(data, 0);
+                    })
+                    .catch(error => {
+                        // Handle any errors that occurred while reading the JSON file
+                        console.error('Error:', error);
                     });
-                })
-                .catch(error => {
-                    // Handle any errors that occurred while reading the JSON file
-                    console.error('Error:', error);
-                });
-        } else {
-            // Handle authentication failure
-            console.error('Authentication failed:', authData.error);
-        }
-    })
-    .catch(error => {
-        // Handle any errors that occurred during the authentication process
-        console.error('Error:', error);
-    });
+            } else {
+                // Handle authentication failure
+                console.error('Authentication failed:', authData.error);
+            }
+        })
+        .catch(error => {
+            // Handle any errors that occurred during the authentication process
+            console.error('Error:', error);
+        });
 
 }
