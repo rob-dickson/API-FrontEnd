@@ -76,12 +76,15 @@ button {
 }
 
 #done {
-    padding: 1em;
+    padding: .5em;
     width: fit-content;
+    border-radius: .5em;
+    text-align: center;
 }
 
 .message {
     border-radius: .5em;
+    text-align: center;
 }
 
 .info {    
