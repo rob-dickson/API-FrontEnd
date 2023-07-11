@@ -11,7 +11,7 @@
 
 <body>
     <section class="formSection">
-        <form action="" method="">
+        <form >
             <fieldset>
                 <legend>JSON UPLOAD API</legend>
 
@@ -27,10 +27,10 @@
                 <label for="jsonfile">Please Enter JSON File Location</label>
                 <input id="jsonfile" type="text" required placeholder="\JSON_Assets\test.json">
 
-                <div class="btn">
-                    <img src="images/search.png" alt="icon" onclick="getInfo()">
-                </div>
                 <div>
+                    <input class="btn" src="images/search.png" alt="icon" onclick="getInfo()" value="Submit">
+                </div>
+                <div class="message">
                     <p id="done"></p>
                 </div>
             </fieldset>

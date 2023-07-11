@@ -2,13 +2,15 @@
 .formSection {
     margin: 3em auto auto;
     padding: 2em;
-    width: 50em;
+    width: 35em;
     background: #d22a30;
+    border-radius: .5em;
 
 }
 
 form {
     background-color: white;
+    border-radius: .5em;
     padding: 1em;
 }
 
@@ -28,17 +30,26 @@ button {
 }
 
 .btn {
-    transition: all .2s ease-in-out;
+    margin-top: 1em;
+    background-color: rgba(214, 48, 54, 1);
+    text-align: center;    
+    font-family: fantasy;
+    color: white;
 }
 
 .btn:hover {
-    transform: scale(1.2);
-    padding-left: 3.8em;
+    transform: scale(1.1);
+    background-color: rgba(214, 48, 54, .5);
+    border: 3px solid black;
 }
 
 #done {
     padding: 1em;
     width: fit-content;
+}
+
+.message {
+    border-radius: .5em;
 }
 
 footer {
