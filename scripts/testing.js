@@ -72,7 +72,7 @@ function getInfo() {
                                     let randomColor = "#" + Math.floor(Math.random() * 16777215).toString(16);
                                     done.innerHTML = `Assets Uploading...`;
                                     done.style.color = randomColor;
-                                    done.style.backgroundColor = "grey";
+                                    done.style.backgroundColor = "lightgrey";
 
                                     // Increment the index and send the next request after the delay
                                     setTimeout(() => {
