@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "1001",
+        "Description": "Flashcards - Ancient Civilization",
+        "Path": "https://www.alphagraphicsmarketing.com/AHS/1H-1Ancient-FlashCards-purple.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "440c0000-569f-0050-23df-08db0a0a9ecd",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "1002",
+        "Description": "Manuals - Ancient Civilization",
+        "Path": "https://www.alphagraphicsmarketing.com/AHS/1H-1Ancient-Teacher Manual.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "440c0000-569f-0050-18b2-08db0a0a9ee5",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "1003",
+        "Description": "Timeline Cards - Ancient Civilization",
+        "Path": "https://www.alphagraphicsmarketing.com/AHS/1H-1Ancient-Timeline Cards-Purple.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "440c0000-569f-0050-05af-08db0a0a9f01",
+        "AssetCategoryId": null
+    }
+]
