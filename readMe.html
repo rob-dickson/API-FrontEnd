@@ -14,10 +14,10 @@
     <header>
         <nav>
             <ul class="navbar">
-                <li class="active">
+                <li>
                     <a href="index.html">Home</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="readMe.html">Read Me</a>
                 </li>
                 <li>
@@ -26,31 +26,22 @@
             </ul>
         </nav>
     </header>
-    <section class="formSection">
-        <form >
-            <fieldset>
-                <legend>JSON UPLOAD API</legend>
-
-                <label for="domain">Please Enter Domain</label>
-                <input id="domain" type="text" required placeholder="ahs.brandfulfillment.store">
-
-                <label for="username">Please Enter Admin Username</label>
-                <input id="username" type="text" required>
-
-                <label for="password">Please Enter Admin Password</label>
-                <input id="password" type="text" required>
-
-                <label for="jsonfile">Please Enter JSON File Location</label>
-                <input id="jsonfile" type="text" required placeholder="\JSON_Assets\test.json">
-
-                <div>
-                    <input class="btn" src="images/search.png" alt="icon" onclick="getInfo()" value="Submit">
-                </div>
-                <div class="message">
-                    <p id="done"></p>
-                </div>
-            </fieldset>
-        </form>
+    <section class="info">
+        <h2>This is what you need to know</h2>
+        <h3>For this program to work please follow the following steps</h3>
+        <h4>Step 1</h4>
+        <p>JSON file MUST follow this format </p>
+        <picture class="jsonIMG">
+            <img src="/images/jsonEx.PNG" alt="JSON Example">
+        </picture>
+        <h4>Step 2</h4>
+        <p>The Domain asked for must be a correct Pressero Domain</p>
+        <p>Good example, ahs.brandfulfillment.store</p>
+        <p>Bad example, https://ahs.brandfulfillment.store/</p>
+        <h4>Step 3</h4>  
+        <p>The Username and Password must be an Admin User</p>
+        <h4>Step 4</h4>  
+        <p>Let Kylie do it</p>
     </section>
     <footer>
         <p>

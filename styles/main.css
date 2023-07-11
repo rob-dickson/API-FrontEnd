@@ -1,3 +1,35 @@
+* {
+    margin: 0;    
+    font-family: cursive;
+}
+
+
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    background-color: #d22a30;  
+    padding: 1em;
+}
+
+nav ul li a {
+    display: block;
+    padding: .4rem;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+nav ul li a:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
+nav ul li.active a {
+    background-color: rgba(0,0,0,0.4);
+    font-weight: 600;
+}
 
 .formSection {
     margin: 3em auto auto;
@@ -17,7 +49,7 @@ form {
 fieldset {
     display: flex;
     flex-direction: column;
-    font-family: fantasy;
+    font-family: cursive;
 }
 
 label,
@@ -33,7 +65,7 @@ button {
     margin-top: 1em;
     background-color: rgba(214, 48, 54, 1);
     text-align: center;    
-    font-family: fantasy;
+    font-family: cursive;
     color: white;
 }
 
@@ -52,9 +84,24 @@ button {
     border-radius: .5em;
 }
 
+.info {    
+    font-family: cursive;
+    padding: 4em;
+}
+
+.info h2, .info h3 {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.info h4, .info p {
+    padding-bottom: 1em;
+}
+
 footer {
     display: flex;
     flex-direction: column;
     text-align: center;
     padding-top: 100px;
+    padding-bottom: 3em;
 }
