@@ -3,7 +3,7 @@
     margin: 3em auto auto;
     padding: 2em;
     width: 50em;
-    background: rgba(210, 42, 48, 1);;
+    background: #d22a30;
 
 }
 
@@ -34,4 +34,16 @@ button {
 .btn:hover {
     transform: scale(1.2);
     padding-left: 3.8em;
+}
+
+#done {
+    padding: 1em;
+    width: fit-content;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
 }

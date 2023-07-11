@@ -44,6 +44,10 @@ function getInfo() {
                             if (index >= dataArray.length) {
                                 // All requests have been sent
                                 console.log('All requests have been sent.');
+                                let done = document.querySelector('#done')
+                                done.innerHTML = `Assets upload complete`;
+                                done.style.color = "#d22a30";
+                                done.style.fontSize = "2em";
                                 return;
                             }
 
@@ -63,6 +67,12 @@ function getInfo() {
 
                                     // Handle the response data
                                     console.log(responseData);
+
+                                    let done = document.querySelector('#done')
+                                    let randomColor = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                                    done.innerHTML = `Assets Uploading...`;
+                                    done.style.color = randomColor;
+                                    done.style.backgroundColor = "grey";
 
                                     // Increment the index and send the next request after the delay
                                     setTimeout(() => {

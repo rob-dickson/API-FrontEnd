@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,30 +8,46 @@
     <link rel="stylesheet" href="styles/main.css">
     <script src="scripts/testing.js" defer></script>
 </head>
+
 <body>
     <section class="formSection">
         <form action="" method="">
             <fieldset>
                 <legend>JSON UPLOAD API</legend>
-    
+
                 <label for="domain">Please Enter Domain</label>
                 <input id="domain" type="text" required placeholder="ahs.brandfulfillment.store">
-    
+
                 <label for="username">Please Enter Admin Username</label>
                 <input id="username" type="text" required placeholder="rsdAdmin">
-    
+
                 <label for="password">Please Enter Admin Password</label>
                 <input id="password" type="text" required placeholder="APIpassword23">
-    
+
                 <label for="jsonfile">Please Enter JSON File Location</label>
                 <input id="jsonfile" type="text" required placeholder="\JSON_Assets\test.json">
 
                 <div class="btn">
                     <img src="images/search.png" alt="icon" onclick="getInfo()">
                 </div>
-    
+                <div>
+                    <p id="done"></p>
+                </div>
             </fieldset>
         </form>
     </section>
+    <footer>
+        <p>
+            <span>
+                <img src="https://alphagraphicsmarketing.com/img/AG_logo_2C.png" width="250" height="61" alt="logo"/>
+            </span>
+        </p>
+        Questions? Contact us at: (208) 522-2679<br />
+        <br />
+        Our mailing address is:<br />
+        Alpha Graphics<br />
+        1680 Bentley Way<br />
+        Idaho Falls, ID 83401<br />
+    </footer>
 </body>
 </html>
