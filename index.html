@@ -27,6 +27,7 @@
         </nav>
     </header>
     <section class="formSection">
+        <h2 style="text-align: center;color: rgb(0, 0, 0);">Please Read through the Read Me prior to playing around <br><br></h2>
         <form >
             <fieldset>
                 <legend>JSON UPLOAD API</legend>
@@ -40,10 +41,10 @@
                 <label for="password">Please Enter Admin Password</label>
                 <input id="password" type="text" required>
 
-                <label for="jsonfile">Please Enter JSON File Location</label>
-                <input id="jsonfile" type="text" required placeholder="\JSON_Assets\test.json">
+                <label for="jsonfile">Please Enter JSON File Location(Cannot be local)</label>
+                <input id="jsonfile" type="text" required placeholder="JSON_Assets\test.json">
 
-                <div>
+                <div style="text-align: center;" >
                     <input class="btn" src="images/search.png" alt="icon" onclick="getInfo()" value="Submit">
                 </div>
                 <div class="message">
