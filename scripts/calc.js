@@ -24,10 +24,10 @@ function getInfo() {
     })
         .then(response => response.json())
         .then(authData => {
-            //console.log(authData);
+            console.log(authData);
             // Check if authentication was successful
             if (authData.Token) {
-                //console.log(authData.Token);
+                console.log(authData.Token);
                 // Read the JSON file
                 fetch(jsonfile)
                     .then(response => response.json())
