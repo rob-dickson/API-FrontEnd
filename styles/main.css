@@ -1,9 +1,10 @@
 * {
-    margin: 0;    
-    font-family: cursive;
+    margin: 0;
 }
 
-
+section {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 nav ul {
     display: flex;
@@ -35,7 +36,8 @@ nav ul li.active a {
     margin: 3em auto auto;
     padding: 2em;
     width: 35em;
-    background: #d22a30;
+    background: rgb(211, 211, 211, 0.3);
+    border: 1px solid rgb(128, 128, 128);
     border-radius: .5em;
 
 }
@@ -49,7 +51,6 @@ form {
 fieldset {
     display: flex;
     flex-direction: column;
-    font-family: cursive;
 }
 
 label,
@@ -64,8 +65,7 @@ button {
 .btn {
     margin-top: 1em;
     background-color: rgba(214, 48, 54, 1);
-    text-align: center;    
-    font-family: cursive;
+    text-align: center;
     color: white;
 }
 
@@ -87,8 +87,7 @@ button {
     text-align: center;
 }
 
-.info {    
-    font-family: cursive;
+.info {
     padding: 4em;
 }
 
