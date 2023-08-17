@@ -46,6 +46,8 @@ function getInfo() {
                                 done.style.color = "#d22a30";
                                 done.style.backgroundColor = "lightgrey";
                                 done.style.fontSize = "2em";
+                                done.style.marginRight = "auto";
+                                done.style.marginLeft = "auto";
                                 return;
                             }
 
