@@ -108,3 +108,13 @@ footer {
     padding-top: 100px;
     padding-bottom: 3em;
 }
+
+div.page {
+    display: flex;
+    flex-direction: row;
+    padding: 2em;
+}
+.info {
+    padding: 2em;
+    width: 50vw;        
+}
