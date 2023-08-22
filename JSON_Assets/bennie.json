@@ -1,0 +1,100 @@
+[
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Ember Mug(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 2.40,
+                "Cost": 0
+            }
+        ]
+    },
+
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Twill Cap(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 0.17,
+                "Cost": 0
+            }
+        ]
+    },
+    
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Sticker Pack(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 0.02,
+                "Cost": 0
+            }
+        ]
+    },
+
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Wooden Speaker(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 1,
+                "Cost": 0
+            }
+        ]
+    },
+
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Pen(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 0.02,
+                "Cost": 0
+            }
+        ]
+    },
+
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Bear(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 0.17,
+                "Cost": 0
+            }
+        ]
+    },
+
+    {
+        "Calc": {
+            "CalculatorName": "Bennie - Notebook(PB)",
+            "Method": "PriceBreaks"
+        },
+        "PriceBreakList": [
+            {
+                "Amount": 1,
+                "Weight": 0.59,
+                "Cost": 0
+            }
+        ]
+    }
+
+]
