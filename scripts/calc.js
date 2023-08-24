@@ -13,7 +13,8 @@ function getInfo() {
     fetch('https://adminc.pro-matters.com/api/V2/Authentication', {
         method: 'POST',
         headers: {
-            'Content-Type': 'application/json'
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': '*'
         },
         body: JSON.stringify({
             username: username,
@@ -28,8 +29,16 @@ function getInfo() {
             // Check if authentication was successful
             if (authData.Token) {
                 console.log(authData.Token);
+
+
+
                 // Read the JSON file
-                fetch(jsonfile)
+                fetch(jsonfile, {
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Access-Control-Allow-Origin': '*'
+                    }
+                }) 
                     .then(response => response.json())
                     .then(data => {
 
