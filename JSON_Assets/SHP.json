@@ -1,0 +1,49 @@
+[
+    {
+        "Calc": {
+            "CalculatorName": "SHP - 1.15Buttons",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/1.15Buttons.xls"
+    },
+    
+    {
+        "Calc": {
+            "CalculatorName": "SHP - 2.5RoundStickers",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/2.5RoundStickers.xls"
+    },
+    
+    {
+        "Calc": {
+            "CalculatorName": "SHP - 2.25BunkButtons",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/2.25BunkButtons.xls"
+    },
+    
+    {
+        "Calc": {
+            "CalculatorName": "SHP - 2.25Bunk Buttons",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/2.25BunkButtons.xls"
+    },
+
+    {
+        "Calc": {
+            "CalculatorName": "SHP - BusinessCards",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/BusinessCards.xls"
+    },
+    
+    {
+        "Calc": {
+            "CalculatorName": "SHP - 3x1.75 Sticker",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/3x1.75Sticker.xls"
+    }
+]
