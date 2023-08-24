@@ -25,10 +25,10 @@ function getInfo() {
     })
         .then(response => response.json())
         .then(authData => {
-            //console.log(authData);
+            console.log(authData);
             // Check if authentication was successful
             if (authData.Token) {
-                //console.log(authData.Token);
+                console.log(authData.Token);
                 // Read the JSON file
                 fetch(jsonfile)
                     .then(response => response.json())
@@ -44,7 +44,7 @@ function getInfo() {
                                 console.log('All requests have been sent.');
                                 let done = document.querySelector('#done')
                                 done.innerHTML = `Assets upload complete`;
-                                done.style.color = "#d22a30";                                
+                                done.style.color = "#d22a30";
                                 done.style.backgroundColor = "lightgrey";
                                 done.style.fontSize = "2em";
                                 return;
