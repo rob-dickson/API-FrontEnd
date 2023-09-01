@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Contract | Dallas",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00020-Contract-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-cbef-08dba0303a22",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Referral Program | Dallas",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00022-FriendsFamReferralProgram-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-c7f8-08dba02edbe1",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Generic Business Cards | Dallas",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00018-GenericBC-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-1687-08dba02d553c",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "NCR Carbonless Agreement | Dallas",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00021-NCRFormsPropertyWtEAgreements-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-56c9-08dba02edd44",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Yard Sign | Dallas",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00023-YardSign-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-8fd1-08dba0306b86",
+        "AssetCategoryId": null
+    }
+]
