@@ -6,44 +6,67 @@
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #6 Envelopes.xls.xls"
     },
-
     {
         "Calc": {
             "CalculatorName": "Idaho falls City - Envelopes (P&F)",
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #10 Envelopes (P&F).xls"
-    },    
-
+    },
     {
         "Calc": {
             "CalculatorName": "Idaho Fall CIty - Envelopes (Window)",
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #10 Envelopes (Window).xls"
-    }, 
-    
+    },
     {
         "Calc": {
             "CalculatorName": "Idaho Falls City - Envelopes",
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #10 Envelopes.xls"
-    }, 
-
+    },
     {
         "Calc": {
             "CalculatorName": "Idaho Falls City - Business Cards",
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - Business Cards.xls"
-    }, 
-
+    },
     {
         "Calc": {
             "CalculatorName": "Idaho Falls City - Letterhead",
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - Letterhead.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "Idaho Falls City - #6 Envelopes",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho%20Falls%20City/Pricing%20Engines/Idaho%20Falls%20City%20%236%20Envelopes.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "Idaho Falls City - #10 Envelopes",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho%20Falls%20City/Pricing%20Engines/Idaho%20Falls%20City%20%2310%20Envelopes.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "Idaho Falls City - Power #10 Envelopes",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho%20Falls%20City/Pricing%20Engines/Idaho%20Falls%20City%20Power%20%2310%20Envelopes%20.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "Idaho Falls City - Window Envelopes",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho%20Falls%20City/Pricing%20Engines/Idaho%20Falls%20City%20Window%20Envelopes.xls"
     }
 ]
