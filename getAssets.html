@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assets Upload</title>
+    <meta name="description" content="API Interface For AlphaGraphics" />
+    <link rel="stylesheet" href="styles/main.css">
+    <script src="scripts/getAssets.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul class="navbar">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="readMe.html">Read Me</a>
+                </li>
+                <li class="active">
+                    <a href="product.html">ProductAPI</a>
+                </li>
+                <li>
+                    <a href="calculator.html">CalculatorAPI</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section class="formSection">
+        <h2 style="text-align: center;color: rgb(0, 0, 0);">Please Read through the Read Me prior to playing around
+            <br><br>
+        </h2>
+        <form>
+            <fieldset>
+                <legend>JSON UPLOAD API</legend>
+
+                <label for="domain">Please Enter Domain</label>
+                <input id="domain" type="text" required placeholder="ahs.brandfulfillment.store">
+
+                <label for="username">Please Enter Admin Username</label>
+                <input id="username" type="text" required>
+
+                <label for="password">Please Enter Admin Password</label>
+                <input id="password" type="password" required>
+
+                <!-- <label for="jsonfile">Please Enter JSON File Location(Cannot be local)</label>
+                <input id="jsonfile" type="text" required
+                    placeholder="https://rob-dickson.github.io/API-FrontEnd/JSON_Assets/ahs.json"> -->
+
+                <div style="text-align: center;">
+                    <input class="btn" src="images/search.png" alt="icon" onclick="getInfo()" value="Submit">
+                </div>
+                <div style="text-align: center;" class="message">
+                    <p id="done"></p>
+                </div>
+            </fieldset>
+        </form>
+    </section>
+    <footer>
+        <p>
+            <span>
+                <img src="https://alphagraphicsmarketing.com/img/AG_logo_2C.png" width="250" height="61" alt="logo" />
+            </span>
+        </p>
+        Questions? Contact us at: (208) 522-2679<br />
+        <br />
+        Our mailing address is:<br />
+        Alpha Graphics<br />
+        1680 Bentley Way<br />
+        Idaho Falls, ID 83401<br />
+    </footer>
+</body>
+
+</html>
