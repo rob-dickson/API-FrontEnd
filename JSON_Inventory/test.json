@@ -1,0 +1,26 @@
+[
+    {
+        "Stock": {
+            "StockName": "22829-00008-WomensZipUpJacket-Navy-XL",
+            "PerItemCost": 0,
+            "ReorderPoint": 1
+        },
+        "CurrentLevel": 5
+    },
+    {
+        "Stock": {
+            "StockName": "22829-00008-WomensZipUpJacket-Navy-2XL",
+            "PerItemCost": 0,
+            "ReorderPoint": 1
+        },
+        "CurrentLevel": 5
+    },
+    {
+        "Stock": {
+            "StockName": "22829-00008-WomensZipUpJacket-Navy-3XL",
+            "PerItemCost": 0,
+            "ReorderPoint": 1
+        },
+        "CurrentLevel": 5
+    }
+]
