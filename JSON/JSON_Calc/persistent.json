@@ -106,10 +106,24 @@
     },
     {
         "Calc": {
+            "CalculatorName": "21332-00019",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Persistent/PricingEngines/21332-00019.xls"
+    },
+    {
+        "Calc": {
             "CalculatorName": "21332-00020",
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Persistent/PricingEngines/21332-00020.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "21332-00025",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Persistent/PricingEngines/21332-00025.xls"
     },
     {
         "Calc": {
@@ -124,6 +138,13 @@
             "Method": "Calculator"
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Persistent/PricingEngines/21332-00028.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "21332-00029",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Persistent/PricingEngines/21332-00029.xls"
     },
     {
         "Calc": {
