@@ -1,0 +1,73 @@
+[
+    {
+        "Name": "Contract | Boise",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00014-Contract-BoiseID-NewNumber.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-5846-08dba030399f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Generic Business Cards | Boise",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00012-GenericBC-BoiseID-NewNumbers.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-cb14-08dba02d54ef",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "NCR Carbonless Agreement | Boise",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00015-NCRFormsPropertyWtEAgreements-BoiseID-NewNumber.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-ab34-08dba03051df",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Referral Program | Boise",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00016-FriendsFamReferralProgram-Boise-NewNumber.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-b4b7-08dba030406d",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Yard Sign | Boise",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/00017-YardSign-BoiseID-NewNumber.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-8021-08dba0306b35",
+        "AssetCategoryId": null
+    }
+
+]
