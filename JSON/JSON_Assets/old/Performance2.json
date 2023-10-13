@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Contract | Orlando",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/OrlandoFL-Contract.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-c075-08dbcc09972f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "FriendsFamReferralProgram | Orlando",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/OrlandoFL-FriendsFamReferralProgram.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-d26b-08dbcc099742",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "GenericBC | Orlando",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/OrlandoFL-GenericBC.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-47bf-08dbcc099758",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "NCRFormsPropertyWtEAgreements | Orlando",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/OrlandoFL-NCRFormsPropertyWtEAgreements.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-6ed2-08dbcc09975f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "YardSign | Orlando",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/OrlandoFL-YardSign.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-4664-08dbcc099777",
+        "AssetCategoryId": null
+    }
+]
