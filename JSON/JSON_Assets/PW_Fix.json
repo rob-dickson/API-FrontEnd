@@ -1,0 +1,814 @@
+[    
+    {
+        "Name": "14066-00001",
+        "Description": "Marketing Manual 3rd Edition",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00001-MarketingManual2ndEdition.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-d30f-08dba02d59b2",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00002",
+        "Description": "Recruiting Cards",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00002-RecruitingCard.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-0a12-08dba02d5a2a",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00004",
+        "Description": "Pads",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00004-WorkOrderPads.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-20f9-08dba0305c28",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00006",
+        "Description": "Generic Business Cards | Austin",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00006-GenericBC-AustinTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-1e64-08dba02d54a1",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00008",
+        "Description": "Contract | Austin",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00008-Contract-AustinTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-2403-08dba0303909",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00009",
+        "Description": "NCR Agreements | Austin",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00009-NCRForms-AustinTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-36be-08dba02ec88a",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00010",
+        "Description": "F&F Referral Program | Austin",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00010-FriendsFamReferral-AustinTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-f467-08dba02ec72e",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00011",
+        "Description": "Yard Sign | Austin",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00011-YardSign-AustinTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-1304-08dba030665a",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00012",
+        "Description": "Generic Business Cards | Boise",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00012-GenericBC-BoiseID.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-cb14-08dba02d54ef",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00014",
+        "Description": "Contract | Boise",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00014-Contract-BoiseID.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-5846-08dba030399f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00015",
+        "Description": "NCR Agreements | Boise",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00015-NCRForms-BoiseID.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-ab34-08dba03051df",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00016",
+        "Description": "F&F Referral Program | Boise",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00016-FriendsFamReferral.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-b4b7-08dba030406d",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00017",
+        "Description": "Yard Sign | Boise",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00017-YardSign-BoiseID.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-8021-08dba0306b35",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00018",
+        "Description": "Generic Business Cards | Dallas",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00018-GenericBC-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-1687-08dba02d553c",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00020",
+        "Description": "Contract | Dallas",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00020-Contract-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-cbef-08dba0303a22",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00021",
+        "Description": "NCR Agreements | Dallas",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00021-NCRForms-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-56c9-08dba02edd44",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00022",
+        "Description": "F&F Referral Program | Dallas",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00022-FriendsFamReferral-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-c7f8-08dba02edbe1",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00023",
+        "Description": "Yard Sign | Dallas",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00023-YardSign-DallasTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-8fd1-08dba0306b86",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00024",
+        "Description": "Generic Business Cards | Denver",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00024-GenericBC-DenverCO.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-b1ca-08dba02d55a6",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00026",
+        "Description": "Contract | Denver",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00026-Contract-DenverCO.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-0cb9-08dba02ed082",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00027",
+        "Description": "NCR Agreements | Denver",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00027-NCRForms-DenverCO.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-e2db-08dba02ed64d",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00028",
+        "Description": "F&F Referral Program | Denver",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00028-FriendsFamReferral-DenverCO.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-cc58-08dba02ed4f1",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00029",
+        "Description": "Yard Sign | Denver",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00029-YardSign-DenverCO.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-8554-08dba02d5f5a",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00030",
+        "Description": "Generic Business Cards | Houston",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00030-GenericBC-HoustonTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-27c7-08dba02d5612",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00032",
+        "Description": "Contract | Houston",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00032-Contract-HoustonTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-4c7b-08dba0303ae6",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00033",
+        "Description": "NCR Agreements | Houston",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00033-NCRForms-HoustonTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-42b6-08dba02ee0ac",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00034",
+        "Description": "F&F Referral Program | Houston",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00034-FriendsFamReferral-HoustonTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-a178-08dba02edf36",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00035",
+        "Description": "Yard Sign | Houston",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00035-YardSign-HoustonTX.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "d4130000-569f-0050-09d8-08dba97f9ec6",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00036",
+        "Description": "Generic Business Cards | Jacksonville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00036-GenericBC-JacksonvilleFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-adc6-08dba02d5678",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00038",
+        "Description": "Contract | Jacksonville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00038-Contract-JacksonvilleFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240100-569f-0050-f873-08dba0303b53",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00039",
+        "Description": "NCR Agreements | Jacksonville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00039-NCR-JacksonvilleFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-ebb3-08dba02ece58",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00040",
+        "Description": "F&F Referral Program | Jacksonville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00040-FF-JacksonvilleFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240100-569f-0050-93be-08dba02ecbe4",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00041",
+        "Description": "Yard Sign | Jacksonville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00041-YardSign-JacksonvilleFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-4517-08dba0306e13",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00042",
+        "Description": "Generic Business Cards | Kaysville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00042-GenericBC-KaysvilleUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-1d93-08dba02d56eb",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00044",
+        "Description": "Contract | Kaysville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00044-Contract-KaysvilleUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-0719-08dba0303bc4",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00045",
+        "Description": "NCR Agreements | Kaysville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00045-NCRForms-KaysvilleUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-7ee9-08dba02ee22e",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00046",
+        "Description": "F&F Referral Program | Kaysville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00046-FriendsFamReferral-KaysvilleUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-5dc8-08dba02ee1ab",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00047",
+        "Description": "Yard Sign | Kaysville",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00047-YardSign-KaysvilleUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-f2a4-08dba0306e61",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00048",
+        "Description": "Generic Business Cards | Phoenix",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00048-GenericBC-PheonixAZ.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-38d1-08dba02d57ea",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00050",
+        "Description": "Contract | Phoenix",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00050-Contract-PhoenixAZ.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-2393-08dba0303ca4",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00051",
+        "Description": "NCR Agreements | Phoenix",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00051-NCRForms-PheonixAZ.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-7241-08dba03056a8",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00052",
+        "Description": "F&F Referral Program | Phoenix",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00052-FriendsFamReferral-PheonixAZ.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-a8cf-08dba03046bc",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00053",
+        "Description": "Yard Sign | Phoenix",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00053-YardSign-PhoenixAZ.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "d4130000-569f-0050-1f5f-08dba97f9fd6",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00054",
+        "Description": "Generic Business Cards | Pleasant Grove",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00054-GenericBC-PleasantGroveUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "8c140000-569f-0050-5150-08dba02d5781",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00056",
+        "Description": "Contract | Pleasant Grove",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00056-Contract-PleasantGroveUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-2977-08dba0303c28",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00057",
+        "Description": "NCR Agreements | Pleasant Grove",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00057-NCRForms-PleasantGroveUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-d8bb-08dba02ee2ea",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00058",
+        "Description": "F&F Referral Program | Pleasant Grove",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00058-FriendsFamReferral-PleasantGroveUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-fbc9-08dba02ee384",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00059",
+        "Description": "Yard Sign | Pleasant Grove",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00059-YardSign-PleasantGroveUT.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "10240000-569f-0050-a024-08dba0306eb0",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00065",
+        "Description": "Contract | Orlando",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00065-Contract-OrlandoFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-c075-08dbcc09972f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00066",
+        "Description": "F&F Referral Program | Orlando",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00066-FriendsFamReferral-OrlandoFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-d26b-08dbcc099742",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00067",
+        "Description": "Generic Business Cards | Orlando",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00067-GenericBC-OrlandFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-47bf-08dbcc099758",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00068",
+        "Description": "NCR Agreements | Orlando",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00068-NCRForms-OrlandoFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-6ed2-08dbcc09975f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "14066-00070",
+        "Description": "Yard Sign | Orlando",
+        "Path": "https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00070-YardSign-OrlandoFL.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": "Everyone",
+        "ProductId": "a03c0000-569f-0050-4664-08dbcc099777",
+        "AssetCategoryId": null
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
