@@ -1,0 +1,107 @@
+[
+    {
+        "Name": "08607-00004",
+        "Description": "Boutique Signage Package",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00004.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-3adf-08db8de5f6ad",
+        "AssetCategoryId": null
+    },
+
+    {
+        "Name": "08607-00040",
+        "Description": "Candle Bar Foam Sign",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00040.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-e2ad-08db8de5f81f",
+        "AssetCategoryId": null
+    },
+
+    {
+        "Name": "08607-00058",
+        "Description": "Hold Tags",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00058.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-1731-08db8de5f8e8",
+        "AssetCategoryId": null
+    },
+
+    {
+        "Name": "08607-00061",
+        "Description": "Interior Signage",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00061.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-9bd7-08db8de5f8fd",
+        "AssetCategoryId": null
+    },
+
+    {
+        "Name": "08607-00062",
+        "Description": "Last One Tags",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00062.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-3897-08db8de5f907",
+        "AssetCategoryId": null
+    },
+
+    {
+        "Name": "08607-00046",
+        "Description": "Christmas Hold Tags",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00046.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-17d7-08db8de5f85b",
+        "AssetCategoryId": null
+    },
+
+    {
+        "Name": "08607-00070",
+        "Description": "Sold Tags",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00070.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e4290000-569f-0050-808f-08db8de5f955",
+        "AssetCategoryId": null
+    }
+
+]
