@@ -1,8 +1,8 @@
 [
     {
-        "Name": "08607-00004",
-        "Description": "Boutique Signage Package",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00004.pdf",
+        "Name": "08607-00041",
+        "Description": "The Greenhouse Foam Sign - 18",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00041.pdf",
         "UserDownloadable": false,
         "IsLocal": false,
         "AssetType": 2,
@@ -10,14 +10,13 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "e4290000-569f-0050-3adf-08db8de5f6ad",
+        "ProductId": "e4290000-569f-0050-a6e4-08db8de5f829",
         "AssetCategoryId": null
     },
-
     {
-        "Name": "08607-00040",
-        "Description": "Candle Bar Foam Sign",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00040.pdf",
+        "Name": "08607-00042",
+        "Description": "The Greenhouse Foam Sign - 24",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00042.pdf",
         "UserDownloadable": false,
         "IsLocal": false,
         "AssetType": 2,
@@ -25,14 +24,13 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "e4290000-569f-0050-e2ad-08db8de5f81f",
+        "ProductId": "e4290000-569f-0050-e475-08db8de5f831",
         "AssetCategoryId": null
     },
-
     {
-        "Name": "08607-00058",
-        "Description": "Hold Tags",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00058.pdf",
+        "Name": "08607-00054",
+        "Description": "Floor Decal",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00054.pdf",
         "UserDownloadable": false,
         "IsLocal": false,
         "AssetType": 2,
@@ -40,14 +38,13 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "e4290000-569f-0050-1731-08db8de5f8e8",
+        "ProductId": "e4290000-569f-0050-c535-08db8de5f8ba",
         "AssetCategoryId": null
     },
-
     {
-        "Name": "08607-00061",
-        "Description": "Interior Signage",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00061.pdf",
+        "Name": "08607-00074",
+        "Description": "Hang Tags",
+        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00074.pdf",
         "UserDownloadable": false,
         "IsLocal": false,
         "AssetType": 2,
@@ -55,53 +52,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "e4290000-569f-0050-9bd7-08db8de5f8fd",
-        "AssetCategoryId": null
-    },
-
-    {
-        "Name": "08607-00062",
-        "Description": "Last One Tags",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00062.pdf",
-        "UserDownloadable": false,
-        "IsLocal": false,
-        "AssetType": 2,
-        "AssetUsage": "PRODUCT",
-        "ThumbnailPath": null,
-        "GenerateThumbnailForExternalURL": true,
-        "GroupId": null,
-        "ProductId": "e4290000-569f-0050-3897-08db8de5f907",
-        "AssetCategoryId": null
-    },
-
-    {
-        "Name": "08607-00046",
-        "Description": "Christmas Hold Tags",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00046.pdf",
-        "UserDownloadable": false,
-        "IsLocal": false,
-        "AssetType": 2,
-        "AssetUsage": "PRODUCT",
-        "ThumbnailPath": null,
-        "GenerateThumbnailForExternalURL": true,
-        "GroupId": null,
-        "ProductId": "e4290000-569f-0050-17d7-08db8de5f85b",
-        "AssetCategoryId": null
-    },
-
-    {
-        "Name": "08607-00070",
-        "Description": "Sold Tags",
-        "Path": "https://www.alphagraphicsmarketing.com/RealDeals/08607-00070.pdf",
-        "UserDownloadable": false,
-        "IsLocal": false,
-        "AssetType": 2,
-        "AssetUsage": "PRODUCT",
-        "ThumbnailPath": null,
-        "GenerateThumbnailForExternalURL": true,
-        "GroupId": null,
-        "ProductId": "e4290000-569f-0050-808f-08db8de5f955",
+        "ProductId": "34f76bd4-0e42-4e78-a7d6-ca54ace8debc",
         "AssetCategoryId": null
     }
-
 ]
