@@ -978,5 +978,61 @@
         "GroupId": null,
         "ProductId": "d4140000-569f-0050-5513-08dbe627da99",
         "AssetCategoryId": null
+    },
+    {
+        "Name": "Now Open Flags",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Swig/23447-00054.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "8c240000-569f-0050-1cd7-08dbba1f0770",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Recipes & Ratios OK/TX Summer",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Swig/23447-00127RecipesRatiosOKTXSummer2023.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "df08e495-7e63-455d-ae50-b4162a6efead",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Recipes & Ratios UT/AZ Summer",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Swig/23447-00128RecipesRatiosUTAZSummer2023.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "01aa0416-261f-4952-9851-bc2c7b7dea56",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Recipes & Ratios ID Summer",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/Swig/23447-00129RecipesRatiosIDSummer2023.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "ebc8f726-80d1-48c0-a9e1-b41a3d487186",
+        "AssetCategoryId": null
     }
 ]
