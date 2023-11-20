@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Not by Chance Yearbook - Issue One",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/NotByChance/22153-00004.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a42d0000-569f-0050-ed26-08dbe959b3f4",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Not by Chance Yearbook - Issue Two",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/NotByChance/22153-00005.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a42d0000-569f-0050-28cf-08dbe959b446",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Not by Chance Yearbook - Issue One (Ebook)",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/NotByChance/22153-00007.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a42d0000-569f-0050-49c6-08dbe959b4c9",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Not by Chance Yearbook - Issue Two (Ebook)",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/NotByChance/22153-00008.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a42d0000-569f-0050-7f84-08dbe959b506",
+        "AssetCategoryId": null
+    }
+]

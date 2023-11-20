@@ -1,6 +1,6 @@
 [
     {
-        "Name": "KLAS Research Name Tags",
+        "Name": "Banasky #10 Envelope - Price Utah",
         "Description": "NONE",
         "Path": "https://www.alphagraphicsmarketing.com/AF-Center/14062-00002.pdf",
         "UserDownloadable": false,
@@ -10,11 +10,11 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "901b0000-569f-0050-2360-08dbe9e584c7",
         "AssetCategoryId": null
     },
     {
-        "Name": "KLAS Research Bookable Tags",
+        "Name": "Banasky #10 Envelope-South Jordan Utah",
         "Description": "NONE",
         "Path": "https://www.alphagraphicsmarketing.com/AF-Center/14062-00003.pdf",
         "UserDownloadable": false,
@@ -24,37 +24,37 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "901b0000-569f-0050-bf5f-08dbe9e584e3",
         "AssetCategoryId": null
     },
-    // {
-    //     "Name": "",
-    //     "Description": "NONE",
-    //     "Path": "https://www.alphagraphicsmarketing.com/AF-Center/14062-00004.pdf",
-    //     "UserDownloadable": false,
-    //     "IsLocal": false,
-    //     "AssetType": 2,
-    //     "AssetUsage": "PRODUCT",
-    //     "ThumbnailPath": null,
-    //     "GenerateThumbnailForExternalURL": true,
-    //     "GroupId": null,
-    //     "ProductId": "",
-    //     "AssetCategoryId": null
-    // },
-    // {
-    //     "Name": "",
-    //     "Description": "NONE",
-    //     "Path": "https://www.alphagraphicsmarketing.com/AF-Center/14062-00005.pdf",
-    //     "UserDownloadable": false,
-    //     "IsLocal": false,
-    //     "AssetType": 2,
-    //     "AssetUsage": "PRODUCT",
-    //     "ThumbnailPath": null,
-    //     "GenerateThumbnailForExternalURL": true,
-    //     "GroupId": null,
-    //     "ProductId": "",
-    //     "AssetCategoryId": null
-    // },
+    {
+        "Name": "Banasky Catalog Envelope - Price Utah",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AF-Center/14062-00004.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "901b0000-569f-0050-48ff-08dbe9e584ed",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Banasky Catalog Envelope-South Jordan Utah",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AF-Center/14062-00005.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "901b0000-569f-0050-6fa7-08dbe9e584f4",
+        "AssetCategoryId": null
+    },
     {
         "Name": "Homeward Bound - Not By Chance Worksheet",
         "Description": "NONE",
@@ -66,7 +66,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-6b4c-08dbe7aff1a1",
         "AssetCategoryId": null
     },
     {
@@ -80,7 +80,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-f505-08dbe7aff1aa",
         "AssetCategoryId": null
     },
     {
@@ -94,7 +94,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-e09b-08dbe7aff1b6",
         "AssetCategoryId": null
     },
     {
@@ -108,7 +108,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-07bb-08dbe7aff1be",
         "AssetCategoryId": null
     },
     {
@@ -122,37 +122,37 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-bd47-08dbe7aff1c6",
         "AssetCategoryId": null
     },
-    // {
-    //     "Name": "",
-    //     "Description": "NONE",
-    //     "Path": "https://www.alphagraphicsmarketing.com/AF-Center/18622-00002.pdf",
-    //     "UserDownloadable": false,
-    //     "IsLocal": false,
-    //     "AssetType": 2,
-    //     "AssetUsage": "PRODUCT",
-    //     "ThumbnailPath": null,
-    //     "GenerateThumbnailForExternalURL": true,
-    //     "GroupId": null,
-    //     "ProductId": "",
-    //     "AssetCategoryId": null
-    // },
-    // {
-    //     "Name": "",
-    //     "Description": "NONE",
-    //     "Path": "https://www.alphagraphicsmarketing.com/AF-Center/18622-00003.pdf",
-    //     "UserDownloadable": false,
-    //     "IsLocal": false,
-    //     "AssetType": 2,
-    //     "AssetUsage": "PRODUCT",
-    //     "ThumbnailPath": null,
-    //     "GenerateThumbnailForExternalURL": true,
-    //     "GroupId": null,
-    //     "ProductId": "",
-    //     "AssetCategoryId": null
-    // },
+    {
+        "Name": "Brent Brown Toyota Letterhead",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AF-Center/18622-00002.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "901b0000-569f-0050-96e2-08dbe9e584fb",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Brent Brown Toyota #10 Envelope",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AF-Center/18622-00003.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "901b0000-569f-0050-bdcc-08dbe9e58502",
+        "AssetCategoryId": null
+    },
     {
         "Name": "Brent Brown Toyota #10 Window Envelope",
         "Description": "NONE",
@@ -164,11 +164,11 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-baa4-08dbe7aff190",
         "AssetCategoryId": null
     },
     {
-        "Name": "Brent Brown Toyota #10 Window Envelope - Peel & Seal",
+        "Name": "Brent Brown Toyota #10WindowEnvelope-Peel&Seal",
         "Description": "NONE",
         "Path": "https://www.alphagraphicsmarketing.com/AF-Center/18622-00006.pdf",
         "UserDownloadable": false,
@@ -178,23 +178,9 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-e1d2-08dbe7aff197",
         "AssetCategoryId": null
     },
-    // {
-    //     "Name": "",
-    //     "Description": "NONE",
-    //     "Path": "https://www.alphagraphicsmarketing.com/AF-Center/19506-00001.pdf",
-    //     "UserDownloadable": false,
-    //     "IsLocal": false,
-    //     "AssetType": 2,
-    //     "AssetUsage": "PRODUCT",
-    //     "ThumbnailPath": null,
-    //     "GenerateThumbnailForExternalURL": true,
-    //     "GroupId": null,
-    //     "ProductId": "",
-    //     "AssetCategoryId": null
-    // },
     {
         "Name": "Sirq Envelope",
         "Description": "NONE",
@@ -206,7 +192,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-bc5c-08dbe7aff1e5",
         "AssetCategoryId": null
     },
     {
@@ -220,7 +206,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-464e-08dbe7aff1d0",
         "AssetCategoryId": null
     },
     {
@@ -234,7 +220,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-31f6-08dbe7aff1dc",
         "AssetCategoryId": null
     },
     {
@@ -248,7 +234,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-2703-08dbe7aff0f8",
         "AssetCategoryId": null
     },
     {
@@ -262,7 +248,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-ee04-08dbe7aff080",
         "AssetCategoryId": null
     },
     {
@@ -276,7 +262,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-1fa6-08dbe7aff155",
         "AssetCategoryId": null
     },
     {
@@ -290,7 +276,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-e2ee-08dbe7aff178",
         "AssetCategoryId": null
     },
     {
@@ -304,7 +290,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-09fc-08dbe7aff180",
         "AssetCategoryId": null
     },
     {
@@ -318,7 +304,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-f777-08dbe7aff16c",
         "AssetCategoryId": null
     },
     {
@@ -332,7 +318,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-4801-08dbe7aff13d",
         "AssetCategoryId": null
     },
     {
@@ -346,7 +332,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-d087-08dbe7aff165",
         "AssetCategoryId": null
     },
     {
@@ -360,7 +346,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-0e33-08dbe7aff123",
         "AssetCategoryId": null
     },
     {
@@ -374,7 +360,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-97bb-08dbe7aff12c",
         "AssetCategoryId": null
     },
     {
@@ -388,7 +374,7 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-be99-08dbe7aff133",
         "AssetCategoryId": null
     },
     {
@@ -402,7 +388,35 @@
         "ThumbnailPath": null,
         "GenerateThumbnailForExternalURL": true,
         "GroupId": null,
-        "ProductId": "",
+        "ProductId": "20470000-569f-0050-d1cc-08dbe7aff146",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Envelope - Inside Security Tint",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AF-Center/19506-00003.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "20470000-569f-0050-44fc-08dbe7aff1ef",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Bid Ops Socks",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/AF-Center/23057-00011.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "20470000-569f-0050-46dc-08dbe7aff15c",
         "AssetCategoryId": null
     }
 ]
