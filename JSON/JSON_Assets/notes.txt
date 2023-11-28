@@ -1,54 +1,29 @@
-AHS | Flashcards x11
-AHS | Flashcards x113
-AHS | Flashcards x23
-AHS | Flashcards x25
-AHS | Flashcards x29
-AHS | Flashcards x31
-AHS | Flashcards x32
-AHS | Flashcards x34
-AHS | Flashcards x36
-AHS | Flashcards x46
-AHS | Flashcards x48
-AHS | Flashcards x50
-AHS | Flashcards x94
-AHS | Packet Duplex Guts x100
-AHS | Packet Duplex Guts x125
-AHS | Packet Duplex Guts x150
-AHS | Packet Duplex Guts x175
-AHS | Packet Duplex Guts x75
-AHS | Packet Simplex Guts x10
-AHS | Packet Simplex Guts x100
-AHS | Packet Simplex Guts x125
-AHS | Packet Simplex Guts x150
-AHS | Packet Simplex Guts x175
-AHS | Packet Simplex Guts x25
-AHS | Packet Simplex Guts x50
-AHS | Packet Simplex Guts x75
-AHS | Tabs x3
-AHS | Tabs x4
-AHS | Tabs x5
-AHS | Tabs x6
-AHS | Timeline Cards x1
-AHS | Timeline Cards x10
-AHS | Timeline Cards x11
-AHS | Timeline Cards x14
-AHS | Timeline Cards x16
-AHS | Timeline Cards x17
-AHS | Timeline Cards x18
-AHS | Timeline Cards x2
-AHS | Timeline Cards x25
-AHS | Timeline Cards x26
-AHS | Timeline Cards x3
-AHS | Timeline Cards x4
-AHS | Timeline Cards x5
-AHS | Timeline Cards x8
-AHS | Timeline Cards x9
-AHS Mem 1
-AHS Mem 2
-AHS Power Journal
-AHS R-Kit
-
-	
-CalculatorName: Let Test_1
-Method: Calculator
-FileUrl: https://www....
+updateCalculator.html:1 Access to fetch at 'https://admin.chi.v6.pressero.com/api/Calculators' from origin 'http://127.0.0.1:5500' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+updateCalc.js:66 
+        
+        
+       PUT https://admin.chi.v6.pressero.com/api/Calculators net::ERR_FAILED
+sendPostRequests @ updateCalc.js:66
+(anonymous) @ updateCalc.js:98
+setTimeout (async)
+(anonymous) @ updateCalc.js:97
+Promise.catch (async)
+sendPostRequests @ updateCalc.js:91
+(anonymous) @ updateCalc.js:98
+setTimeout (async)
+(anonymous) @ updateCalc.js:97
+Promise.catch (async)
+sendPostRequests @ updateCalc.js:91
+(anonymous) @ updateCalc.js:98
+setTimeout (async)
+(anonymous) @ updateCalc.js:97
+Promise.catch (async)
+sendPostRequests @ updateCalc.js:91
+(anonymous) @ updateCalc.js:104
+Promise.then (async)
+(anonymous) @ updateCalc.js:43
+Promise.then (async)
+getInfo @ updateCalc.js:27
+onclick @ updateCalculator.html:57
+updateCalc.js:94 Error: TypeError: Failed to fetch
+    at sendPostRequests (updat

@@ -4,17 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assets Upload</title>
+    <title>Calculator Upload</title>
     <meta name="description" content="API Interface For AlphaGraphics" />
     <link rel="stylesheet" href="styles/main.css">
-    <script src="scripts/testing.js" defer></script>
+    <script src="scripts/updateCalc.js" defer></script>
 </head>
 
 <body>
     <header>
         <nav>
             <ul class="navbar">
-                <li class="active">
+                <li>
                     <a href="index.html">Home</a>
                 </li>
                 <li>
@@ -26,7 +26,7 @@
                 <li>
                     <a href="calculator.html">CalculatorAPI</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="updateCalculator.html">CalculatorUpdateAPI</a>
                 </li>
                 <li>
@@ -37,7 +37,30 @@
     </header>
     <section class="formSection">
         <h2 style="text-align: center;color: rgb(0, 0, 0);">Please Read through the Read Me prior to playing around
-            <br><br></h2>
+            <br><br>
+        </h2>
+        <form>
+            <fieldset>
+                <legend>JSON UPDATE API - CALCULATORS</legend>
+
+                <label for="username">Please Enter Admin Username</label>
+                <input id="username" type="text" required>
+
+                <label for="password">Please Enter Admin Password</label>
+                <input id="password" type="password" required>
+
+                <label for="jsonfile">Please Enter JSON File Location(Cannot be local)</label>
+                <input id="jsonfile" type="text" required
+                    placeholder="https://rob-dickson.github.io/API-FrontEnd/JSON_Assets/ahs.json">
+
+                <div style="text-align: center;">
+                    <input class="btn" src="images/search.png" alt="icon" onclick="getInfo()" value="Submit">
+                </div>
+                <div style="text-align: center;" class="message">
+                    <p id="done"></p>
+                </div>
+            </fieldset>
+        </form>
     </section>
     <footer>
         <p>

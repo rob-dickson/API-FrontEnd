@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Certification Prep Workbook",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a4022940-c836-4403-b857-095e5d2a85f6",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Book + Workbook Bundle",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "abf5bfc5-d6b5-4016-9b92-59ce681aa742",
+        "AssetCategoryId": null
+    }
+]
