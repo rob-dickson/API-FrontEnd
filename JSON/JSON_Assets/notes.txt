@@ -1,29 +1,13 @@
-updateCalculator.html:1 Access to fetch at 'https://admin.chi.v6.pressero.com/api/Calculators' from origin 'http://127.0.0.1:5500' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
-updateCalc.js:66 
-        
-        
-       PUT https://admin.chi.v6.pressero.com/api/Calculators net::ERR_FAILED
-sendPostRequests @ updateCalc.js:66
-(anonymous) @ updateCalc.js:98
-setTimeout (async)
-(anonymous) @ updateCalc.js:97
-Promise.catch (async)
-sendPostRequests @ updateCalc.js:91
-(anonymous) @ updateCalc.js:98
-setTimeout (async)
-(anonymous) @ updateCalc.js:97
-Promise.catch (async)
-sendPostRequests @ updateCalc.js:91
-(anonymous) @ updateCalc.js:98
-setTimeout (async)
-(anonymous) @ updateCalc.js:97
-Promise.catch (async)
-sendPostRequests @ updateCalc.js:91
-(anonymous) @ updateCalc.js:104
-Promise.then (async)
-(anonymous) @ updateCalc.js:43
-Promise.then (async)
-getInfo @ updateCalc.js:27
-onclick @ updateCalculator.html:57
-updateCalc.js:94 Error: TypeError: Failed to fetch
-    at sendPostRequests (updat
+
+
+ProductURL-ColourName-SizeName
+
+
+
+
+
+
+
+
+
+
