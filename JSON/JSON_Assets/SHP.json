@@ -1,0 +1,31 @@
+[
+
+    {
+        "Name": "Thank You Cards",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/SHP/",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "Christmas Cards",
+        "Description": "NONE",
+        "Path": "https://www.alphagraphicsmarketing.com/SHP/",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "",
+        "AssetCategoryId": null
+    }
+]
