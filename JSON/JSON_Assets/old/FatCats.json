@@ -1051,6 +1051,58 @@
         "GroupId": null,
         "ProductId": "60240000-569f-0050-3a6c-08dbc397594f",
         "AssetCategoryId": null
+    },
+    {
+        "Name": "20602-00079",
+        "Path": "https://www.alphagraphicsmarketing.com/FatCats/StaticFiles/20602-00079.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "d82e0000-569f-0050-1ecd-08dbf1f9713f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "20602-00080",
+        "Path": "https://www.alphagraphicsmarketing.com/FatCats/StaticFiles/20602-00080.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "d82e0000-569f-0050-93dd-08dbf1f97154",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "20602-00081",
+        "Path": "https://www.alphagraphicsmarketing.com/FatCats/StaticFiles/20602-00081.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "d82e0000-569f-0050-cdbd-08dbf1f9716e",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "20602-00082",
+        "Path": "https://www.alphagraphicsmarketing.com/FatCats/StaticFiles/20602-00082.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "PRODUCT",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "d82e0000-569f-0050-42fe-08dbf1f97184",
+        "AssetCategoryId": null
     }
 ]
 
