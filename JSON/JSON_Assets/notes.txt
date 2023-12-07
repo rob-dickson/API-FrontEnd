@@ -1,41 +1,14 @@
 
 
-ProductURL-ColourName-SizeName
+.single-line-product-heading .skinsetting-prod-caption-heading>a {
+    white-space: wrap;
+}
 
 
+#main-content > div.categoryPage_root > div.currentCategoryDes {
+    display: none;
+}
 
-05266-00042
-Donation Receipt Pad
+currentCategoryDes
 
-05266-00024
-Banner Roadside
-
-05266-00033
-Thank you Card
-
-05266-00034
-Christmas Card
-
-
-Domo 
-
-
-
-
-
-
-
-
-
-Hey I'm not sure what is going on but 
-Valued Merchant Services 
-Domain is not working. 
-vms.pro-matters.com works but 
-vms.brandfulfillment.store doesn't.
-
-
-
-
-
-
-
+https://www.alphagraphicsmarketing.com/RealDeals/IntroHomePage.mp4
