@@ -11,4 +11,9 @@
 
 currentCategoryDes
 
+
+<div>
+    <span class="visits"></span>
+</div>
+
 https://www.alphagraphicsmarketing.com/RealDeals/IntroHomePage.mp4
