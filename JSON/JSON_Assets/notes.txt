@@ -1,19 +1,61 @@
 
-
-.single-line-product-heading .skinsetting-prod-caption-heading>a {
-    white-space: wrap;
-}
-
-
-#main-content > div.categoryPage_root > div.currentCategoryDes {
-    display: none;
-}
-
-currentCategoryDes
-
-
-<div>
-    <span class="visits"></span>
-</div>
-
 https://www.alphagraphicsmarketing.com/RealDeals/IntroHomePage.mp4
+
+14092
+
+
+1oz 62.5
+
+
+--NAME--         per1000
+Folders        - 118.231
+Booklets       - 474
+Brochures      - 20
+Business Cards - 3.125
+Certificate    - 62.5
+Flyers         - 50
+Form           - 10
+poster 18x24   - 133.056
+3.5x8.5 Card   - 12.5
+Thank you Card - 22.0625
+12x12 Window   - 81.25
+
+
+
+
+
+
+Simplicity Laser | Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
