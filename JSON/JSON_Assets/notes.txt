@@ -104,12 +104,14 @@ Apparel Price Engine
 21332 - Persistent | Terracotta Elephant
 21332 - Persistent | Golf Gift Boxes
 21332 - Persistent | Anti-Lost Smart Device - Black
+
 21332 - Persistent | Cocktail Multitool
 21332 - Persistent | Small Powerbank - Black
-21332 - Persistent | mesh bag w/ jump rope, Hand gripper, and exercise band)
+21332 - Persistent | Mesh bag Jumprope HandGripper ExerciseBand
 21332 - Persistent | Black Pens
 21332 - Persistent | Pop Socket White/Orange
 21332 - Persistent | Webcam Cover
+
 21332 - Persistent | Glass Bowl Branded
 21332 - Persistent | Clear Vase
 21332 - Persistent | JBL Speaker
@@ -117,6 +119,7 @@ Apparel Price Engine
 21332 - Persistent | Bose Sunglasses
 21332 - Persistent | Camp Mug
 21332 - Persistent | White  Mug - Cork Bottom
+
 21332 - Persistent | Canvas Drawstring backpack
 21332 - Persistent | Branded Whiteboard Markers
 21332 - Persistent | Black Journal - Embossed
@@ -124,6 +127,7 @@ Apparel Price Engine
 21332 - Persistent | Hand Sanitizer and Lip Balm
 21332 - Persistent | Lapel Pins
 21332 - Persistent | See Beyond, Rise Above Shirt
+
 21332 - Persistent | 6' Table Cloth
 21332 - Persistent | Generic Banner Stand - Cloud
 21332 - Persistent | Generic Banner Stand - Light Blue
@@ -131,9 +135,9 @@ Apparel Price Engine
 21332 - Persistent | Generic Banner Stand
 21332 - Persistent | Microsoft Surface Pro - Size
 21332 - Persistent | Tradeshow Toolkit
-21332 - Persistent | 12.75x7.25 A trusted digital Engineering/Why customers come to us flyer set
+21332 - Persistent | 12.75x7.25 Flyer set
 21332 - Persistent | Best Application of AI flyer
-21332 - Persistent | Celebrating our $1 billion journey Tabletop sign
+21332 - Persistent | Celebrating Tabletop sign
 21332 - Persistent | Contact info cards
 21332 - Persistent | Identity Governance Flyer
 21332 - Persistent | Outsystems Flyer
@@ -147,3 +151,12 @@ Apparel Price Engine
 
 
 
+21332 - Persistent | JBL Speaker
+21332 - Persistent | Beats Studio Buds
+21332 - Persistent | Bose Sunglasses
+21332 - Persistent | Camp Mug
+21332 - Persistent | Lapel Pins
+21332 - Persistent | 6' Table Cloth
+21332 - Persistent | Microsoft Surface Pro
+21332 - Persistent | Tradeshow Toolkit
+21332 - Persistent | Wellbeing Set
