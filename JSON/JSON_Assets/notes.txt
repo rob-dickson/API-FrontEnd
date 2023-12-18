@@ -19,8 +19,7 @@ Popup Banner   - 11.25each
 Letterhead     - 6.299
 Envelope       - 9.375
 Product Tags   - 9.5
-
-
+metal name badges 12.5
 
 
 
@@ -62,16 +61,18 @@ Product Tags   - 9.5
 
 
 Centennial
-Master Auto Tech
-Orem
-PUR Life
-Purple
+    - Master Auto Tech
+    Orem - 
+        - Veracity Insurance
+    - PUR Life
+    - Purple 20656
+    - SHP Needs Pricing Engines 
+    - Vox Marketing
+    - SWIG  23447 - There are no prices or weights
+
 Savory
-SHP 
-SWIG
-TRUV
-Veracity Insurance
-Vox Marketing
+
+
 
 
 
