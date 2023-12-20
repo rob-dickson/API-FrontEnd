@@ -60,17 +60,111 @@ metal name badges 12.5
 
 
 
-Centennial
-    - Master Auto Tech
-    Orem - 
-        - Veracity Insurance
-    - PUR Life
-    - Purple 20656
-    - SHP Needs Pricing Engines 
-    - Vox Marketing
-    - SWIG  23447 - There are no prices or weights
+679 
+agOnline
+Web to Print 
+W2P
 
-Savory
+- 00547 - Cooper Norman | Business Cards
+- 01823 - Electrical Wholesale | Business Cards
+- 00993 - Potandon | Business Cards
+- 01822 - Silver Star Communications | Business Cards
+* 04345 - Tadd Jenkins | Business Cards 
+* 00697 - Pro Rentals | Business Cards 
+* 00697 - Pro Rentals | Product Catalog
+* 04299 - Archibald Leavitt | Group Business Cards
+* 04299 - Archibald Leavitt | 10x13 Envelope
+* 04299 - Archibald Leavitt | Pocket Folder
+* 04299 - Archibald Leavitt | No. 10 Windowed Envelope
+* 04299 - Archibald Leavitt | No. 10 Envelope
+* 04299 - Archibald Leavitt | No. 9 Envelope
+* 01035 - Premier Technology Inc. | Business Cards
+* 05024 - Mountain West Rentals | Business Cards
+* 05024 - Mountain West Rentals | Contract Form
+* 00725 - Mountain America Credit Union | Business Cards
+* 07957 - Lookout Credit Union | Business Cards
+* 28259 - BMW | Business Cards
+* 05570 - Ron Sayer Dodge | Business Cards 2022
+* 05570 - Ron Sayer Dodge | Business Cards with Truck Background
+* 05570 - Ron Sayer Dodge | Name Tags
+* 05570 - Ron Sayer Dodge | Business Cards
+
+
+Cooper Norman
+Electrical Wholesale
+Potandon
+Silver Star Communications
+
+Tadd Jenkins
+Pro Rentals
+Archibald Leavitt
+Premier Technology Inc
+Mountain West Rentals
+Mountain America Credit Union
+Lookout Credit Union
+BMW of Idaho Falls
+Ron Sayer Dodge
+
+
+
+04345 - Tadd Jenkins | Business Cards
+    100     .315
+    250     .1892
+    500     .1398
+    1000    .1035
+01035 - Premier Technology Inc. | Business Cards
+    100     .3173
+    250     .21
+    500     .12366
+    1000    .07728
+04299 - Archibald Leavitt | #10 Envelope
+    500     .19464
+    1000    .13788
+    2000    .11972
+    2500    .1196
+04299 - Archibald Leavitt | 10x13 Envelope
+    500     .5298
+    1000    .3924
+    2000    .3648
+05024 - Mountain West Rentals | Business Cards
+    250     .17108
+    500     .11158
+    1000    .07915
+00697 - Pro Rentals | Product Catalog
+    2500    .263
+    5000    .175
+07957 - Lookout Credit Union | Business Cards
+    50      0.61
+    100     0.36
+    200     0.21
+    250     0.18
+    500     0.13
+    1000    0.10
+00697 - Pro Rentals | Business Cards
+    500     .119
+04299 - Archibald Leavitt | Group Business Cards
+    500     .1146
+    1000    .07969
+04299 - Archibald Leavitt | Pocket Folder
+    1000    1.205
+04299 - Archibald Leavitt | #10 Windowed Envelope
+    2500    .1235
+04299 - Archibald Leavitt | #9 Envelope
+    2500    .0859
+05024 - Mountain West Rentals | Contract Form
+    5000    .122
+00725 - Mountain America CU | Business Cards
+    500     .122
+28259 - BMW of Idaho Falls | Business Cards
+    250     .121
+05570 - Ron Sayer Dodge | Business Cards 2022
+    250     .121
+05570 - Ron Sayer Dodge | Business Cards w/ Truck
+    250     .121
+05570 - Ron Sayer Dodge | Business Cards
+    250     .121
+05570 - Ron Sayer Dodge | Name Tags
+    1       17.42
 
 
 
