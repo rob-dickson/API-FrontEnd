@@ -126,9 +126,9 @@ COPPERPLATE GOTHIC 3 BOLD
 
 Purple
 AG Centers (Rexburg first)
-
-
 Performance Windows
+
+
 Alpine Home Medical
 City of IF
 American Land and Leisure
@@ -148,10 +148,10 @@ VMS
 
 
 
-@media (min-width: 992px)
-.col-md-4 {
-    width: 33.3333333333%;
-    max-width: 280px;
+@media (min-width: 992px) {
+    #content div.general-panel.category-panel div.general-panel-body.page-content-area div div.col-md-4 {
+        max-width: 280px;
+    }
 }
 
 .prod-cat-item .img-wrap-link img {
