@@ -172,3 +172,46 @@ VMS
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the Stuffed Coupons: 
+
+    These Coupons are STUFFED, 
+    meaning that they will be hand-inserted by production 
+    for any envelopes you order. If you wish to buy or 
+    reorder individual coupon packs please order *Non-Stuffed Coupons.
+ 
+On Non-Stuffed Coupons: 
+
+    These coupons are NOT STUFFED, 
+    meaning that they are sold in packs and will not be 
+    inserted into envelopes. If you wish to order stuffed 
+    coupons please order *Stuffed Coupons
+ 
+On Checkout cart: 
+
+    IF STUFFED COUPONS
+    Looks like you are ordering stuffed coupons, to help us- 
+    please make sure that you have purchased the correct 
+    amount of envelopes in your order.
+ 
+On Checkout: 
+
+    IF NON STUFFED
+    Looks like you are purchasing Non-Stuffed Coupons. 
+    These are sold in packs and will not be stuffed by 
+    production. Are you sure that you want this item?
+ 
+
+
