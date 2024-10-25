@@ -1,0 +1,16 @@
+[
+    {
+        "Calc": {
+            "CalculatorName": "test",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Dentive/PricingEngines/Booklets.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "test 1",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Dentive/PricingEngines/Brochure.xls"
+    }
+]

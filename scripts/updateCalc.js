@@ -64,7 +64,7 @@ function getInfo() {
                             const json = JSON.stringify(obj);
 
                             fetch(url, {
-                                method: 'PUT',
+                                method: 'POST',
                                 headers: {
                                     'Content-Type': 'application/json',
                                     'Authorization': 'token ' + authData.Token

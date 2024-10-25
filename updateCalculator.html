@@ -7,7 +7,7 @@
     <title>Calculator Upload</title>
     <meta name="description" content="API Interface For AlphaGraphics" />
     <link rel="stylesheet" href="styles/main.css">
-    <script src="scripts/updateCalc.js" defer></script>
+    <script src="scripts/updateCalc2.js" defer></script>
 </head>
 
 <body>
@@ -43,15 +43,17 @@
             <fieldset>
                 <legend>JSON UPDATE API - CALCULATORS</legend>
 
-                <label for="username">Please Enter Admin Username</label>
+                <label for="username">Admin Username</label>
                 <input id="username" type="text" required>
 
-                <label for="password">Please Enter Admin Password</label>
+                <label for="password">Admin Password</label>
                 <input id="password" type="password" required>
 
-                <label for="jsonfile">Please Enter JSON File Location(Cannot be local)</label>
-                <input id="jsonfile" type="text" required
-                    placeholder="https://rob-dickson.github.io/API-FrontEnd/JSON_Assets/ahs.json">
+                <label for="jsonfile">Calculator Name and Location JSON File Path</label>
+                <input id="jsonfile" type="text" required placeholder="JSON/JSON_CalcUpdate/ahs.json">
+
+                <label for="idfile">Calculator ID JSON File Path</label>
+                <input id="idfile" type="text" required placeholder="JSON/JSON_CalcUpdate/ahs2.json">
 
                 <div style="text-align: center;">
                     <input class="btn" src="images/search.png" alt="icon" onclick="getInfo()" value="Submit">
