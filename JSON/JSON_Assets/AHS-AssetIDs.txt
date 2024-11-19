@@ -1,441 +1,440 @@
 
-testing.js:28 {Token: '801B0000-569F-0050-0FBA-08DD05D3440B'}
-testing.js:31 801B0000-569F-0050-0FBA-08DD05D3440B
-testing.js:68 {AssetId: 'c40f0000-569f-0050-302a-08dd05d3444c', Name: '18105-00001', Description: 'Flashcards - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00001.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-d55b-08dd05d347d3', Name: '18105-00002', Description: 'Tabs - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00002.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5786-08dd05d353d4', Name: '18105-00003', Description: 'Small Cursive Handwriting Worksheets - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00003.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-07c4-08dd05d3572b', Name: '18105-00004', Description: 'Timeline Cards - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00004.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c742-08dd05d35bad', Name: '18105-00005', Description: 'Manuals - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00005.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-32ba-08dd05d35f5b', Name: '18105-00006', Description: 'Teacher Handouts - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00006.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-45b3-08dd05d363ba', Name: '18105-00007', Description: 'Planner (Upper Elementary) Student Handouts - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00007.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-78f6-08dd05d36838', Name: '18105-00008', Description: 'Scholar (Middle School) Student Handouts - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00008.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f36e-08dd05d36c99', Name: '18105-00009', Description: 'Observer (PreK-K) Student Handouts - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00009.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3515-08dd05d3714d', Name: '18105-00010', Description: 'Large Block Handwriting Worksheets - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00010.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-a69b-08dd05d374dd', Name: '18105-00011', Description: 'Small Block Handwriting Worksheets - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00011.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-c535-08dd05d37877', Name: '18105-00012', Description: 'Thinker (Early Elementary) Student Handouts - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00012.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-444d-08dd05d37c01', Name: '18105-00013', Description: 'Large Cursive Handwriting Worksheets - Ancient Civilizations', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00013.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-a90b-08dd05d37fbb', Name: '18105-00014', Description: 'Flashcards - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00014.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-509b-08dd05d3846f', Name: '18105-00015', Description: 'Tabs - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00015.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-4edd-08dd05d387e9', Name: '18105-00016', Description: 'Large Block Handwriting Worksheets - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00016.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-82f7-08dd05d38b61', Name: '18105-00017', Description: 'Timeline Cards - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00017.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1773-08dd05d38fbd', Name: '18105-00018', Description: 'Manuals - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00018.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-450c-08dd05d3946b', Name: '18105-00019', Description: 'Teacher Handouts - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00019.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-b6de-08dd05d39a0e', Name: '18105-00020', Description: 'Scholar (Middle School) Student Handouts - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00020.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-02a9-08dd05d39fb2', Name: '18105-00021', Description: 'Thinker (Early Elementary) Student Handouts - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00021.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2642-08dd05d3a51d', Name: '18105-00022', Description: 'Planner (Upper Elementary) Student Handouts - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00022.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-50a4-08dd05d3aaa3', Name: '18105-00023', Description: 'Observer (PreK-K) Student Handouts - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00023.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-de68-08dd05d3ae3c', Name: '18105-00024', Description: 'Small Block Handwriting Worksheets - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00024.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-84e3-08dd05d3b1d6', Name: '18105-00025', Description: 'Large Cursive Handwriting Worksheets - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00025.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-09bb-08dd05d3b571', Name: '18105-00026', Description: 'Small Cursive Handwriting Worksheets - Rome, Jesus Christ, & the Apostasy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00026.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9424-08dd05d3b94a', Name: '18105-00027', Description: 'Timeline Cards - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00027.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-98f8-08dd05d3be1e', Name: '18105-00028', Description: 'Manuals - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00028.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1138-08dd05d3c20b', Name: '18105-00029', Description: 'Flashcards - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00029.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cfb5-08dd05d3c63c', Name: '18105-00030', Description: 'Teacher Handouts - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00030.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3062-08dd05d3c9c4', Name: '18105-00031', Description: 'Tabs - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00031.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-abd4-08dd05d3cc9a', Name: '18105-00032', Description: 'Observer (PreK-K) Student Handouts - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00032.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-5151-08dd05d3d0ec', Name: '18105-00033', Description: 'Thinker (Early Elementary) Student Handouts - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00033.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-5813-08dd05d3d532', Name: '18105-00034', Description: 'Large Block Handwriting Worksheets - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00034.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-d11e-08dd05d3d9c1', Name: '18105-00035', Description: 'Scholar (Middle School) Student Handouts - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00035.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2c59-08dd05d3dea7', Name: '18105-00036', Description: 'Planner (Upper Elementary) Student Handouts - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00036.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-68f9-08dd05d3e22e', Name: '18105-00037', Description: 'Small Block Handwriting Worksheets - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00037.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8eba-08dd05d3e5c6', Name: '18105-00038', Description: 'Large Cursive Handwriting Worksheets - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00038.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3206-08dd05d3e942', Name: '18105-00039', Description: 'Small Cursive Handwriting Worksheets - The New World Is Settled', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00039.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-b210-08dd05d3ecc0', Name: '18105-00040', Description: 'Timeline Cards - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00040.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-08b1-08dd05d3f0f4', Name: '18105-00041', Description: 'Tabs - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00041.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-4cc0-08dd05d3f8c9', Name: '18105-00042', Description: 'Teacher Handouts - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00042.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-09c2-08dd05d3fc40', Name: '18105-00043', Description: 'Flashcards - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00043.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-dbf6-08dd05d40674', Name: '18105-00044', Description: 'Manuals - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00044.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-4bb5-08dd05d40d10', Name: '18105-00045', Description: 'Observer (PreK-K) Student Handouts - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00045.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3a73-08dd05d41326', Name: '18105-00046', Description: 'Thinker (Early Elementary) Student Handouts - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00046.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2f2e-08dd05d418c0', Name: '18105-00047', Description: 'Large Block Handwriting Worksheets - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00047.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-48ae-08dd05d41f93', Name: '18105-00048', Description: 'Scholar (Middle School) Student Handouts - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00048.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e73c-08dd05d4258c', Name: '18105-00049', Description: 'Planner (Upper Elementary) Student Handouts - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00049.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c649-08dd05d42927', Name: '18105-00050', Description: 'Small Block Handwriting Worksheets - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00050.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8f62-08dd05d42cb4', Name: '18105-00051', Description: 'Large Cursive Handwriting Worksheets - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00051.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-04ad-08dd05d43033', Name: '18105-00052', Description: 'Small Cursive Handwriting Worksheets - Revolution and Change', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00052.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-f1e6-08dd05d433c1', Name: '18105-00053', Description: 'Timeline Cards - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00053.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-cb67-08dd05d43958', Name: '18105-00054', Description: 'Tabs - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00054.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-efd0-08dd05d43d3f', Name: '18105-00055', Description: 'Teacher Handouts - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00055.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-7f0c-08dd05d4409e', Name: '18105-00056', Description: 'Flashcards - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00056.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-f71f-08dd05d444ce', Name: '18105-00057', Description: 'Manuals - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00057.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5f38-08dd05d448df', Name: '18105-00058', Description: 'Observer (PreK-K) Student Handouts - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00058.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-db24-08dd05d44c9d', Name: '18105-00059', Description: 'Small Block Handwriting Worksheets - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00059.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-7985-08dd05d450f3', Name: '18105-00060', Description: 'Small Cursive Handwriting Worksheets - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00060.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-f5f2-08dd05d45513', Name: '18105-00061', Description: 'Large Cursive Handwriting Worksheets - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00061.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-7321-08dd05d459a7', Name: '18105-00062', Description: 'Planner (Upper Elementary) Student Handouts - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00062.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4fe8-08dd05d45d2f', Name: '18105-00063', Description: 'Thinker (Early Elementary) Student Handouts - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00063.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8995-08dd05d460be', Name: '18105-00064', Description: 'Scholar (Middle School) Student Handouts - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00064.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8b7e-08dd05d46483', Name: '18105-00065', Description: 'Large Block Handwriting Worksheets - The Gospel Is Restored', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00065.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-03bc-08dd05d4680c', Name: '18105-00066', Description: 'Timeline Cards - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00066.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-8233-08dd05d46cc9', Name: '18105-00067', Description: 'Teacher Handouts - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00067.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6c5d-08dd05d47208', Name: '18105-00070', Description: 'Flashcards - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00070.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3e57-08dd05d47685', Name: '18105-00071', Description: 'Observer (PreK-K) Student Handouts - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00071.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-c790-08dd05d47ae0', Name: '18105-00072', Description: 'Scholar (Middle School) Student Handouts - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00072.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e903-08dd05d4803f', Name: '18105-00073', Description: 'Thinker (Early Elementary) Student Handouts - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00073.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-ccb9-08dd05d4900e', Name: '18105-00074', Description: 'Planner (Upper Elementary) Student Handouts - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00074.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-81e7-08dd05d496b0', Name: '18105-00075', Description: 'Large Block Handwriting Worksheets - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00075.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f98b-08dd05d49b4d', Name: '18105-00076', Description: 'Small Block Handwriting Worksheets - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00076.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-217b-08dd05d49fe7', Name: '18105-00077', Description: 'Large Cursive Handwriting Worksheets - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00077.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-7542-08dd05d4a472', Name: '18105-00078', Description: 'Small Cursive Handwriting Worksheets - Modern Times', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00078.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e722-08dd05d4a8f5', Name: '18105-00079', Description: 'Flashcards - Literature (Same For All Courses)', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00079.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ddd4-08dd05d4aec5', Name: '18105-00080', Description: 'Tabs - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00080.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6203-08dd05d4b25b', Name: '18105-00081', Description: 'Teacher Handouts - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00081.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-762a-08dd05d4b5bd', Name: '18105-00082', Description: 'Timeline Cards - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00082.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-b1ea-08dd05d4ba6a', Name: '18105-00083', Description: 'Manuals - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00083.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-c106-08dd05d4bdf2', Name: '18105-00084', Description: 'Observer (PreK-K) Student Handouts - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00084.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e6a4-08dd05d4c280', Name: '18105-00085', Description: 'Thinker (Early Elementary) Student Handouts - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00085.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-52b7-08dd05d4c689', Name: '18105-00086', Description: 'Large Block Handwriting Worksheets - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00086.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9735-08dd05d4cb20', Name: '18105-00087', Description: 'Scholar (Middle School) Student Handouts - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00087.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-76bf-08dd05d4cf66', Name: '18105-00088', Description: 'Planner (Upper Elementary) Student Handouts - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00088.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-41f9-08dd05d4d30b', Name: '18105-00089', Description: 'Small Block Handwriting Worksheets - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00089.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-bd73-08dd05d4d6be', Name: '18105-00090', Description: 'Large Cursive Handwriting Worksheets - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00090.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e513-08dd05d4da64', Name: '18105-00091', Description: 'Small Cursive Handwriting Worksheets - Out and About', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00091.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-942a-08dd05d4ddf3', Name: '18105-00092', Description: 'Tabs - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00092.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-2626-08dd05d4e154', Name: '18105-00093', Description: 'Teacher Handouts - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00093.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-dabc-08dd05d4e4bc', Name: '18105-00094', Description: 'Timeline Cards - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00094.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-d076-08dd05d4e95a', Name: '18105-00095', Description: 'Manuals - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00095.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-30c1-08dd05d4ed43', Name: '18105-00096', Description: 'Observer (PreK-K) Student Handouts - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00096.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-31b5-08dd05d4f14e', Name: '18105-00097', Description: 'Thinker (Early Elementary) Student Handouts - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00097.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-2177-08dd05d4f52f', Name: '18105-00098', Description: 'Large Block Handwriting Worksheets - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00098.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-dd15-08dd05d4f919', Name: '18105-00099', Description: 'Scholar (Middle School) Student Handouts - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00099.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-57df-08dd05d4fd70', Name: '18105-00100', Description: 'Planner (Upper Elementary) Student Handouts - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00100.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-8365-08dd05d500f1', Name: '18105-00101', Description: 'Small Block Handwriting Worksheets - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00101.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-4c65-08dd05d50471', Name: '18105-00102', Description: 'Large Cursive Handwriting Worksheets - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00102.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-d9b4-08dd05d507fc', Name: '18105-00103', Description: 'Small Cursive Handwriting Worksheets - On Our Own', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00103.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-dc8f-08dd05d50b7c', Name: '18105-00104', Description: 'Small Block Handwriting Worksheets - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00104.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-370e-08dd05d50eb2', Name: '18105-00105', Description: 'Manuals - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00105.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8bd3-08dd05d51207', Name: '18105-00106', Description: 'Timeline Cards - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00106.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1845-08dd05d5167d', Name: '18105-00107', Description: 'Tabs - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00107.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-76e6-08dd05d51a0b', Name: '18105-00108', Description: 'Teacher Handouts - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00108.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3706-08dd05d51e69', Name: '18105-00109', Description: 'Scholar (Middle School) Student Handouts - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00109.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1ea8-08dd05d52291', Name: '18105-00110', Description: 'Thinker (Early Elementary) Student Handouts - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00110.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ecba-08dd05d5265d', Name: '18105-00111', Description: 'Planner (Upper Elementary) Student Handouts - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00111.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5e14-08dd05d52a5e', Name: '18105-00112', Description: 'Observer (PreK-K) Student Handouts - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00112.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5f86-08dd05d52e00', Name: '18105-00113', Description: 'Large Cursive Handwriting Worksheets - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00113.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-bbfb-08dd05d53192', Name: '18105-00114', Description: 'Large Block Handwriting Worksheets - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00114.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-27ae-08dd05d53518', Name: '18105-00115', Description: 'Small Block Handwriting Worksheets - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00115.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8e99-08dd05d538a8', Name: '18105-00116', Description: 'Timeline Cards - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00116.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-768f-08dd05d53be7', Name: '18105-00117', Description: 'Manuals - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00117.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5b37-08dd05d53f51', Name: '18105-00118', Description: 'Small Cursive Handwriting Worksheets - Growing Up', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00118.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-60ec-08dd05d5444e', Name: '18105-00119', Description: 'Tabs - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00119.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-dd83-08dd05d5482c', Name: '18105-00120', Description: 'Teacher Handouts - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00120.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e2df-08dd05d54cf0', Name: '18105-00121', Description: 'Scholar (Middle School) Student Handouts - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00121.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-9d4f-08dd05d551c3', Name: '18105-00122', Description: 'Thinker (Early Elementary) Student Handouts - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00122.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8c40-08dd05d556b5', Name: '18105-00123', Description: 'Planner (Upper Elementary) Student Handouts - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00123.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-384b-08dd05d55b31', Name: '18105-00124', Description: 'Observer (PreK-K) Student Handouts - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00124.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-34f4-08dd05d55eb9', Name: '18105-00125', Description: 'Large Cursive Handwriting Worksheets - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00125.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2703-08dd05d56249', Name: '18105-00126', Description: 'Large Block Handwriting Worksheets - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00126.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-03af-08dd05d565d5', Name: '18105-00127', Description: 'Small Block Handwriting Worksheets - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00127.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-965f-08dd05d56966', Name: '18105-00128', Description: 'Timeline Cards - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00128.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e768-08dd05d56cc5', Name: '18105-00129', Description: 'Manuals - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00129.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-eb56-08dd05d57040', Name: '18105-00130', Description: 'Small Cursive Handwriting Worksheets - Strengthening Character', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00130.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3497-08dd05d5750c', Name: '18105-00131', Description: 'Tabs - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00131.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-36ca-08dd05d57ac1', Name: '18105-00132', Description: 'Teacher Handouts - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00132.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3158-08dd05d57fc9', Name: '18105-00133', Description: 'Scholar (Middle School) Student Handouts - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00133.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5fec-08dd05d58508', Name: '18105-00134', Description: 'Thinker (Early Elementary) Student Handouts - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00134.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-13a1-08dd05d58a2c', Name: '18105-00135', Description: 'Planner (Upper Elementary) Student Handouts - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00135.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e4b2-08dd05d58efd', Name: '18105-00136', Description: 'Observer (PreK-K) Student Handouts - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00136.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4ab1-08dd05d592bb', Name: '18105-00137', Description: 'Large Cursive Handwriting Worksheets - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00137.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ccec-08dd05d5965e', Name: '18105-00138', Description: 'Large Block Handwriting Worksheets - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00138.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-1e95-08dd05d599f3', Name: '18105-00139', Description: 'Small Block Handwriting Worksheets - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00139.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-804e-08dd05d59d8f', Name: '18105-00140', Description: 'Flashcards - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00140.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f8d3-08dd05d5a11d', Name: '18105-00141', Description: 'Small Cursive Handwriting Worksheets - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00141.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2869-08dd05d5a43e', Name: '18105-00142', Description: 'Tabs - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00142.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-93b4-08dd05d5a792', Name: '18105-00143', Description: 'Small Cursive Handwriting Worksheets - Adversity & Blessings', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00143.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-0abe-08dd05d5abe4', Name: '18105-00144', Description: 'Timeline Cards - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00144.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-46ae-08dd05d5af1f', Name: '18105-00145', Description: 'Manuals - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00145.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3267-08dd05d5b3cd', Name: '18105-00146', Description: 'Large Block Handwriting Worksheets - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00146.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-0260-08dd05d5b78b', Name: '18105-00147', Description: 'Large Cursive Handwriting Worksheets - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00147.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e445-08dd05d5bb36', Name: '18105-00148', Description: 'Thinker (Early Elementary) Student Handouts - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00148.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5727-08dd05d5bf8a', Name: '18105-00149', Description: 'Teacher Handouts - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00149.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-cfc6-08dd05d5c2cf', Name: '18105-00150', Description: 'Planner (Upper Elementary) Student Handouts - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00150.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-542e-08dd05d5c61a', Name: '18105-00151', Description: 'Observer (PreK-K) Student Handouts - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00151.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-a744-08dd05d5c94b', Name: '18105-00152', Description: 'Scholar (Middle School) Student Handouts - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00152.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e3ff-08dd05d5cc7b', Name: '18105-00153', Description: 'Small Cursive Handwriting Worksheets - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00153.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-fd2b-08dd05d5d0a1', Name: '18105-00154', Description: 'Flashcards - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00154.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f0d0-08dd05d5d3ff', Name: '18105-00155', Description: '2021/22 Power Hour Journal - Preorder', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00155.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-f49c-08dd05d5d759', Name: '18105-00156', Description: 'Small Block Handwriting Worksheets - Zoology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00156.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2d33-08dd05d5db1e', Name: '18105-00157', Description: '4-Ring Kit', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00157.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-639a-08dd05d5de52', Name: '18105-00158', Description: 'Timeline Cards - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00158.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-d3c3-08dd05d5e1b4', Name: '18105-00159', Description: 'Teacher Handouts - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00159.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6d01-08dd05d5e524', Name: '18105-00160', Description: 'Observer (PreK-K) Student Handouts - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00160.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-bd8f-08dd05d5e86a', Name: '18105-00161', Description: 'Manuals - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00161.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e4d6-08dd05d5ebb0', Name: '18105-00162', Description: 'Tabs - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00162.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8e54-08dd05d5eee7', Name: '18105-00163', Description: 'Scholar (Middle School) Student Handouts - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00163.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-988e-08dd05d5f258', Name: '18105-00164', Description: 'Planner (Upper Elementary) Student Handouts - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00164.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c0a8-08dd05d5f585', Name: '18105-00165', Description: 'Thinker (Early Elementary) Student Handouts - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00165.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-27e5-08dd05d5f8be', Name: '18105-00166', Description: 'Large Cursive Handwriting Worksheets - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00166.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-afdb-08dd05d5fc88', Name: '18105-00168', Description: 'Small Block Handwriting Worksheets - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00168.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-9a70-08dd05d5ffff', Name: '18105-00169', Description: 'Large Block Handwriting Worksheets - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00169.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2936-08dd05d603b8', Name: '18105-00171', Description: 'Small Cursive Handwriting Worksheets - Astronomy', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00171.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-019e-08dd05d60732', Name: '18105-00172', Description: 'Tabs - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00172.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-390c-08dd05d60a62', Name: '18105-00173', Description: 'Manuals - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00173.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-01bd-08dd05d60d9c', Name: '18105-00174', Description: 'Flashcards - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00174.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-38bf-08dd05d61109', Name: '18105-00175', Description: 'Observer (PreK-K) Student Handouts - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00175.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-c80e-08dd05d61438', Name: '18105-00176', Description: 'Scholar (Middle School) Student Handouts - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00176.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2b9a-08dd05d61756', Name: '18105-00177', Description: 'Planner (Upper Elementary) Student Handouts - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00177.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-50a6-08dd05d61a74', Name: '18105-00178', Description: 'Thinker (Early Elementary) Student Handouts - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00178.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c479-08dd05d61da0', Name: '18105-00179', Description: 'Large Cursive Handwriting Worksheets - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00179.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-f909-08dd05d62143', Name: '18105-00180', Description: 'Small Block Handwriting Worksheets - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00180.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-0e9a-08dd05d625d5', Name: '18105-00181', Description: 'Flashcards - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00181.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-017b-08dd05d62891', Name: '18105-00182', Description: 'Large Block Handwriting Worksheets - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00182.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-550a-08dd05d62bfd', Name: '18105-00183', Description: 'Small Cursive Handwriting Worksheets - Geology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00183.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-9db9-08dd05d62f1e', Name: '18105-00184', Description: 'Timeline Cards - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00184.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-a5c3-08dd05d6324e', Name: '18105-00185', Description: 'Teacher Handouts - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00185.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-6f7e-08dd05d63586', Name: '18105-00186', Description: 'Observer (PreK-K) Student Handouts - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00186.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-fe54-08dd05d638ab', Name: '18105-00187', Description: 'Manuals - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00187.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-ac35-08dd05d63bd4', Name: '18105-00188', Description: 'Tabs - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00188.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-d112-08dd05d63f0a', Name: '18105-00189', Description: 'Scholar (Middle School) Student Handouts - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00189.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4d52-08dd05d642b2', Name: '18105-00190', Description: 'Planner (Upper Elementary) Student Handouts - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00190.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-088f-08dd05d645ef', Name: '18105-00191', Description: 'Thinker (Early Elementary) Student Handouts - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00191.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-1b1b-08dd05d6491e', Name: '18105-00192', Description: 'Large Cursive Handwriting Worksheets - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00192.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-44c8-08dd05d64d1f', Name: '18105-00193', Description: 'Memorizations Collection (K-6)', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00193.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2c1a-08dd05d650e7', Name: '18105-00194', Description: 'Small Cursive Handwriting Worksheets - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00194.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-bcd8-08dd05d6543d', Name: '18105-00195', Description: 'Large Block Handwriting Worksheets - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00195.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-52df-08dd05d65881', Name: '18105-00196', Description: 'Small Block Handwriting Worksheets - Cytology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00196.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-75ed-08dd05d65bd9', Name: '18105-00197', Description: 'Flashcards - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00197.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-ec02-08dd05d65fe5', Name: '18105-00198', Description: 'Manuals - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00198.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-d1b6-08dd05d66342', Name: '18105-00199', Description: 'Teacher Handouts - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00199.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8ede-08dd05d66697', Name: '18105-00200', Description: 'Tabs - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00200.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-4e05-08dd05d66a72', Name: '18105-00201', Description: 'Timeline Cards - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00201.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-7893-08dd05d66d99', Name: '18105-00202', Description: 'Planner (Upper Elementary) Student Handouts - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00202.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-862d-08dd05d670cc', Name: '18105-00203', Description: 'Observer (PreK-K) Student Handouts - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00203.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-7399-08dd05d67445', Name: '18105-00204', Description: 'Scholar (Middle School) Student Handouts - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00204.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3abe-08dd05d67769', Name: '18105-00205', Description: 'Large Cursive Handwriting Worksheets - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00205.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-40bb-08dd05d67a8e', Name: '18105-00206', Description: 'Large Block Handwriting Worksheets - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00206.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-018a-08dd05d67d84', Name: '18105-00207', Description: 'Small Block Handwriting Worksheets - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00207.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-cc3e-08dd05d680cf', Name: '18105-00208', Description: 'Thinker (Early Elementary) Student Handouts - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00208.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-edb7-08dd05d68449', Name: '18105-00209', Description: 'Large Cursive Handwriting Worksheets - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00209.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-89d8-08dd05d6881a', Name: '18105-00210', Description: 'Small Cursive Handwriting Worksheets - Botany', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00210.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3265-08dd05d68b69', Name: '18105-00211', Description: 'Tabs - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00211.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-bf2b-08dd05d68ec2', Name: '18105-00212', Description: 'Manuals - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00212.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-89d5-08dd05d691fe', Name: '18105-00213', Description: 'Timeline Cards - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00213.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2d67-08dd05d69539', Name: '18105-00214', Description: 'Flashcards - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00214.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e32b-08dd05d69867', Name: '18105-00215', Description: 'Observer (PreK-K) Student Handouts - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00215.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-0c27-08dd05d69b9b', Name: '18105-00216', Description: 'Teacher Handouts - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00216.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e220-08dd05d69eff', Name: '18105-00217', Description: 'Planner (Upper Elementary) Student Handouts - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00217.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-a74c-08dd05d6a23a', Name: '18105-00218', Description: 'Thinker (Early Elementary) Student Handouts - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00218.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8b04-08dd05d6a61e', Name: '18105-00219', Description: 'Large Block Handwriting Worksheets - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00219.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ffe2-08dd05d6a951', Name: '18105-00220', Description: 'Small Block Handwriting Worksheets - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00220.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5db6-08dd05d6acc4', Name: '18105-00221', Description: 'Scholar (Middle School) Student Handouts - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00221.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c486-08dd05d6b0a7', Name: '18105-00222', Description: 'Large Cursive Handwriting Worksheets - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00222.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9afc-08dd05d6b43a', Name: '18105-00223', Description: 'Small Cursive Handwriting Worksheets - Chemistry', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00223.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f22e-08dd05d6b88b', Name: '18105-00224', Description: 'Tabs - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00224.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-795d-08dd05d6bbf9', Name: '18105-00225', Description: 'Manuals - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00225.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-93cc-08dd05d6bf38', Name: '18105-00226', Description: 'Timeline Cards - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00226.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5584-08dd05d6c2b2', Name: '18105-00227', Description: 'Flashcards - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00227.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-b6cd-08dd05d6c5de', Name: '18105-00228', Description: 'Observer (PreK-K) Student Handouts - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00228.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e8cf-08dd05d6c90f', Name: '18105-00229', Description: 'Teacher Handouts - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00229.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-70e5-08dd05d6cc46', Name: '18105-00230', Description: 'Planner (Upper Elementary) Student Handouts - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00230.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-06c8-08dd05d6cf70', Name: '18105-00231', Description: 'Thinker (Early Elementary) Student Handouts - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00231.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-b305-08dd05d6d320', Name: '18105-00232', Description: 'Memorizations Collection (7-12)', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00232.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ce5a-08dd05d6d62f', Name: '18105-00233', Description: 'Large Cursive Handwriting Worksheets - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00233.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9a1c-08dd05d6d984', Name: '18105-00234', Description: 'Scholar (Middle School) Student Handouts - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00234.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e0d5-08dd05d6de0d', Name: '18105-00235', Description: 'Large Block Handwriting Worksheets - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00235.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ce73-08dd05d6e163', Name: '18105-00236', Description: 'Small Block Handwriting Worksheets - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00236.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-556b-08dd05d6e586', Name: '18105-00237', Description: 'Timeline Cards - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00237.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cf5f-08dd05d6e902', Name: '18105-00238', Description: 'Tabs - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00238.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5397-08dd05d6ec68', Name: '18105-00239', Description: 'Flashcards - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00239.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-a68b-08dd05d6f008', Name: '18105-00240', Description: 'Small Cursive Handwriting Worksheets - Physics', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00240.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e995-08dd05d6f365', Name: '18105-00241', Description: 'Teacher Handouts - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00241.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-73e5-08dd05d6f6ca', Name: '18105-00242', Description: 'Manuals - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00242.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-9ed0-08dd05d6fa09', Name: '18105-00243', Description: 'Observer (PreK-K) Student Handouts - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00243.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-0ad2-08dd05d6fd79', Name: '18105-00244', Description: 'Planner (Upper Elementary) Student Handouts - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00244.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9a27-08dd05d702a7', Name: '18105-00245', Description: 'Thinker (Early Elementary) Student Handouts - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00245.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9bfb-08dd05d70603', Name: '18105-00246', Description: 'Large Cursive Handwriting Worksheets - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00246.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-34ac-08dd05d7097a', Name: '18105-00247', Description: 'Scholar (Middle School) Student Handouts - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00247.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-906f-08dd05d70efc', Name: '18105-00248', Description: 'Large Block Handwriting Worksheets - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00248.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-fd3c-08dd05d712a9', Name: '18105-00249', Description: 'Small Block Handwriting Worksheets - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00249.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-c809-08dd05d717c7', Name: '18105-00250', Description: 'Timeline Cards - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00250.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-d4c9-08dd05d71c11', Name: '18105-00251', Description: 'Tabs - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00251.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3b0c-08dd05d7206a', Name: '18105-00252', Description: 'Flashcards - Geography (Same For All Courses)', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00252.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f25b-08dd05d7248d', Name: '18105-00253', Description: 'Small Cursive Handwriting Worksheets - Anatomy & Physiology', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00253.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1570-08dd05d72832', Name: '18105-00254', Description: 'Teacher Handouts - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00254.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ce75-08dd05d72bc7', Name: '18105-00255', Description: 'Manuals - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00255.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-fb7a-08dd05d72f3c', Name: '18105-00256', Description: 'Observer (PreK-K) Student Handouts - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00256.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4694-08dd05d732c6', Name: '18105-00257', Description: 'Scholar (Middle School) Student Handouts - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00257.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-d2aa-08dd05d7360d', Name: '18105-00258', Description: 'Large Block Handwriting Worksheets - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00258.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-ec6e-08dd05d73961', Name: '18105-00259', Description: 'Planner (Upper Elementary) Student Handouts - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00259.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8399-08dd05d73f0b', Name: '18105-00260', Description: 'Thinker (Early Elementary) Student Handouts - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00260.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-b279-08dd05d742bc', Name: '18105-00261', Description: 'Large Cursive Handwriting Worksheets - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00261.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-157c-08dd05d74778', Name: '18105-00262', Description: 'Timeline Cards - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00262.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6770-08dd05d74b96', Name: '18105-00263', Description: 'Tabs - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00263.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-7a69-08dd05d74f8b', Name: '18105-00264', Description: 'Small Cursive Handwriting Worksheets - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00264.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e641-08dd05d75397', Name: '18105-00265', Description: 'Small Block Handwriting Worksheets - Asia', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00265.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-a5a6-08dd05d75722', Name: '18105-00266', Description: 'Teacher Handouts - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00266.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cef3-08dd05d75acc', Name: '18105-00267', Description: 'Manuals - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00267.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6d2d-08dd05d75e52', Name: '18105-00268', Description: 'Observer (PreK-K) Student Handouts - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00268.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-66f0-08dd05d761dd', Name: '18105-00269', Description: 'Scholar (Middle School) Student Handouts - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00269.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-37a3-08dd05d765eb', Name: '18105-00270', Description: 'Large Block Handwriting Worksheets - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00270.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3602-08dd05d76935', Name: '18105-00271', Description: 'Planner (Upper Elementary) Student Handouts - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00271.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-135b-08dd05d76e6c', Name: '18105-00272', Description: 'Thinker (Early Elementary) Student Handouts - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00272.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-357b-08dd05d7724f', Name: '18105-00273', Description: 'Large Cursive Handwriting Worksheets - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00273.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-d6ca-08dd05d77632', Name: '18105-00274', Description: 'Timeline Cards - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00274.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4fa2-08dd05d77a42', Name: '18105-00275', Description: 'Tabs - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00275.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-73b5-08dd05d77e08', Name: '18105-00276', Description: 'Small Cursive Handwriting Worksheets - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00276.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-cd08-08dd05d78202', Name: '18105-00277', Description: 'Small Block Handwriting Worksheets - Europe', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00277.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2617-08dd05d78583', Name: '18105-00278', Description: 'Teacher Handouts - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00278.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1cc2-08dd05d7891d', Name: '18105-00279', Description: 'Manuals - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00279.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cd4b-08dd05d78cb7', Name: '18105-00280', Description: 'Observer (PreK-K) Student Handouts - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00280.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8299-08dd05d79054', Name: '18105-00281', Description: 'Planner (Upper Elementary) Student Handouts - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00281.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-23e1-08dd05d793b1', Name: '18105-00282', Description: 'Thinker (Early Elementary) Student Handouts - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00282.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-68ed-08dd05d796f9', Name: '18105-00283', Description: 'Observer (PreK-K) Student Handouts - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00283.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-064f-08dd05d79c78', Name: '18105-00284', Description: 'Scholar (Middle School) Student Handouts - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00284.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-1ead-08dd05d7a18a', Name: '18105-00285', Description: 'Large Block Handwriting Worksheets - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00285.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-b753-08dd05d7a850', Name: '18105-00286', Description: 'Small Cursive Handwriting Worksheets - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00286.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5ed4-08dd05d7adca', Name: '18105-00287', Description: 'Tabs - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00287.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3854-08dd05d7b370', Name: '18105-00288', Description: 'Small Block Handwriting Worksheets - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00288.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2e27-08dd05d7b8b2', Name: '18105-00289', Description: 'Large Cursive Handwriting Worksheets - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00289.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5052-08dd05d7bd59', Name: '18105-00290', Description: 'Teacher Handouts - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00290.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-7b22-08dd05d7c203', Name: '18105-00291', Description: 'Manuals - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00291.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-58c7-08dd05d7c69b', Name: '18105-00292', Description: 'Observer (PreK-K) Student Handouts - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00292.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ac7c-08dd05d7cb21', Name: '18105-00294', Description: 'Thinker (Early Elementary) Student Handouts - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00294.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6832-08dd05d7ce6e', Name: '18105-00295', Description: 'Planner (Upper Elementary) Student Handouts - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00295.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-b49c-08dd05d7d3c2', Name: '18105-00296', Description: 'Scholar (Middle School) Student Handouts - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00296.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3710-08dd05d7d785', Name: '18105-00297', Description: 'Large Block Handwriting Worksheets - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00297.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-a2aa-08dd05d7dc59', Name: '18105-00298', Description: 'Small Cursive Handwriting Worksheets - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00298.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6b82-08dd05d7e093', Name: '18105-00299', Description: 'Timeline Cards - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00299.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-0957-08dd05d7e4f3', Name: '18105-00300', Description: 'Small Block Handwriting Worksheets - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00300.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-30f8-08dd05d7e91b', Name: '18105-00301', Description: 'Large Cursive Handwriting Worksheets - Antarctica, Australia, & the Pacific Islands', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00301.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-662a-08dd05d7ed38', Name: '18105-00302', Description: 'Manuals - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00302.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f519-08dd05d7f101', Name: '18105-00303', Description: 'Tabs - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00303.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6418-08dd05d7f49a', Name: '18105-00304', Description: 'Teacher Handouts - South America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00304.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2a19-08dd05d7f81d', Name: '18105-00305', Description: 'Observer (PreK-K) Student Handouts - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00305.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3bbc-08dd05d7fd20', Name: '18105-00306', Description: 'Planner (Upper Elementary) Student Handouts - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00306.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-6241-08dd05d8001b', Name: '18105-00307', Description: 'Scholar (Middle School) Student Handouts - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00307.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-231d-08dd05d80398', Name: '18105-00308', Description: 'Manuals - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00308.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cdaf-08dd05d807c1', Name: '18105-00310', Description: 'Thinker (Early Elementary) Student Handouts - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00310.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-bffa-08dd05d80b99', Name: '18105-00311', Description: 'Small Block Handwriting Worksheets - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00311.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4b4b-08dd05d80f2c', Name: '18105-00312', Description: 'Small Cursive Handwriting Worksheets - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00312.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-bdda-08dd05d812e9', Name: '18105-00313', Description: 'Large Cursive Handwriting Worksheets - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00313.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-dff3-08dd05d816fe', Name: '18105-00314', Description: 'Large Block Handwriting Worksheets - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00314.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-0f23-08dd05d81a99', Name: '18105-00315', Description: 'Timeline Cards - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00315.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2254-08dd05d81e2a', Name: '18105-00316', Description: 'Flashcards - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00316.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-a2b8-08dd05d821ce', Name: '18105-00317', Description: 'Tabs - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00317.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-725b-08dd05d8256a', Name: '18105-00318', Description: 'Teacher Handouts - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00318.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-2626-08dd05d829ca', Name: '18105-00319', Description: 'Observer (PreK-K) Student Handouts - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00319.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c119-08dd05d82d65', Name: '18105-00320', Description: 'Planner (Upper Elementary) Student Handouts - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00320.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-aa39-08dd05d8312a', Name: '18105-00321', Description: 'Manuals - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00321.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5e24-08dd05d835a4', Name: '18105-00322', Description: 'Large Block Handwriting Worksheets - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00322.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f94a-08dd05d8394f', Name: '18105-00323', Description: 'Scholar (Middle School) Student Handouts - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00323.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6f74-08dd05d83d49', Name: '18105-00324', Description: 'Large Cursive Handwriting Worksheets - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00324.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f425-08dd05d84161', Name: '18105-00325', Description: 'Small Block Handwriting Worksheets - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00325.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-766a-08dd05d8458c', Name: '18105-00326', Description: 'Large Block Handwriting Worksheets - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00326.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-9eda-08dd05d849cf', Name: '18105-00327', Description: 'Thinker (Early Elementary) Student Handouts - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00327.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-ebcb-08dd05d84d6d', Name: '18105-00328', Description: 'Flashcards - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00328.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-23c4-08dd05d850ff', Name: '18105-00329', Description: 'Small Cursive Handwriting Worksheets - Art of the Middle Ages', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00329.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e901-08dd05d85493', Name: '18105-00330', Description: 'Timeline Cards - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00330.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-080d-08dd05d85827', Name: '18105-00331', Description: 'Manuals - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00331.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f755-08dd05d85c8f', Name: '18105-00332', Description: 'Teacher Handouts - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00332.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-627f-08dd05d8602d', Name: '18105-00333', Description: 'Planner (Upper Elementary) Student Handouts - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00333.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6520-08dd05d8639b', Name: '18105-00334', Description: 'Tabs - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00334.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9709-08dd05d86807', Name: '18105-00335', Description: 'Observer (PreK-K) Student Handouts - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00335.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-6ee6-08dd05d86bf1', Name: '18105-00336', Description: 'Scholar (Middle School) Student Handouts - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00336.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6acf-08dd05d86fe6', Name: '18105-00337', Description: 'Large Cursive Handwriting Worksheets - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00337.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-ca02-08dd05d873b9', Name: '18105-00338', Description: 'Small Block Handwriting Worksheets - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00338.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-f218-08dd05d87771', Name: '18105-00339', Description: 'Large Block Handwriting Worksheets - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00339.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e7e3-08dd05d87b28', Name: '18105-00340', Description: 'Thinker (Early Elementary) Student Handouts - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00340.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-22be-08dd05d87eda', Name: '18105-00341', Description: 'Flashcards - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00341.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-2d22-08dd05d88281', Name: '18105-00342', Description: 'Small Cursive Handwriting Worksheets - Renaissance & Baroque Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00342.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-b4b8-08dd05d88618', Name: '18105-00343', Description: 'Timeline Cards - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00343.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-336b-08dd05d889ca', Name: '18105-00344', Description: 'Manuals - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00344.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-46b6-08dd05d88ce6', Name: '18105-00345', Description: 'Teacher Handouts - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00345.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-9ef1-08dd05d89021', Name: '18105-00346', Description: 'Planner (Upper Elementary) Student Handouts - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00346.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f8c5-08dd05d893ab', Name: '18105-00347', Description: 'Tabs - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00347.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-e11d-08dd05d897b6', Name: '18105-00348', Description: 'Observer (PreK-K) Student Handouts - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00348.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-b638-08dd05d89b68', Name: '18105-00349', Description: 'Scholar (Middle School) Student Handouts - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00349.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-4045-08dd05d89f4b', Name: '18105-00350', Description: 'Large Cursive Handwriting Worksheets - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00350.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-ffcc-08dd05d8a34e', Name: '18105-00351', Description: 'Small Block Handwriting Worksheets - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00351.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-747f-08dd05d8a75a', Name: '18105-00352', Description: 'Large Block Handwriting Worksheets - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00352.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-b659-08dd05d8ab7e', Name: '18105-00353', Description: 'Thinker (Early Elementary) Student Handouts - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00353.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-28d9-08dd05d8af3e', Name: '18105-00354', Description: 'Flashcards - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00354.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cec7-08dd05d8b371', Name: '18105-00355', Description: 'Small Cursive Handwriting Worksheets - Art of the Reformation & Dutch Golden Age', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00355.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-8d1b-08dd05d8b768', Name: '18105-00356', Description: 'Timeline Cards - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00356.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-fa9a-08dd05d8bb25', Name: '18105-00357', Description: 'Manuals - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00357.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f211-08dd05d8be82', Name: '18105-00358', Description: 'Teacher Handouts - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00358.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-c686-08dd05d8c1b1', Name: '18105-00359', Description: 'Planner (Upper Elementary) Student Handouts - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00359.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-a749-08dd05d8c506', Name: '18105-00360', Description: 'Tabs - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00360.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-e001-08dd05d8c937', Name: '18105-00361', Description: 'Observer (PreK-K) Student Handouts - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00361.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-9a18-08dd05d8cce5', Name: '18105-00362', Description: 'Scholar (Middle School) Student Handouts - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00362.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-60f7-08dd05d8d0a6', Name: '18105-00363', Description: 'Large Cursive Handwriting Worksheets - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00363.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-aa4f-08dd05d8d46c', Name: '18105-00364', Description: 'Small Block Handwriting Worksheets - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00364.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-fb53-08dd05d8d89d', Name: '18105-00365', Description: 'Large Block Handwriting Worksheets - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00365.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-0064-08dd05d8dc70', Name: '18105-00366', Description: 'Thinker (Early Elementary) Student Handouts - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00366.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-3f05-08dd05d8e021', Name: '18105-00367', Description: 'Flashcards - Music (Same For All Courses)', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00367.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-218b-08dd05d8e3dc', Name: '18105-00368', Description: 'Small Cursive Handwriting Worksheets - Early American Art', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00368.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-96df-08dd05d8e773', Name: '18105-00369', Description: 'Timeline Cards - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00369.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-9c6c-08dd05d8eb0d', Name: '18105-00370', Description: 'Manuals - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00370.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-4b5b-08dd05d8f263', Name: '18105-00372', Description: 'Teacher Handouts - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00372.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-ed4c-08dd05d8f556', Name: '18105-00373', Description: 'Planner (Upper Elementary) Student Handouts - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00373.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5605-08dd05d8f893', Name: '18105-00374', Description: 'Tabs - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00374.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-1d3e-08dd05d8fc93', Name: '18105-00375', Description: 'Observer (PreK-K) Student Handouts - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00375.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-cec3-08dd05d9001b', Name: '18105-00376', Description: 'Scholar (Middle School) Student Handouts - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00376.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-a48d-08dd05d90427', Name: '18105-00377', Description: 'Large Cursive Handwriting Worksheets - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00377.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-685f-08dd05d907e7', Name: '18105-00378', Description: 'Small Block Handwriting Worksheets - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00378.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3bd3-08dd05d90b7b', Name: '18105-00379', Description: 'Large Block Handwriting Worksheets - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00379.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e91b-08dd05d90f3c', Name: '18105-00380', Description: 'Thinker (Early Elementary) Student Handouts - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00380.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-ea6f-08dd05d912af', Name: '18105-00381', Description: 'Timeline Cards - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00381.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8c2f-08dd05d9161e', Name: '18105-00382', Description: 'Small Cursive Handwriting Worksheets - Music in a Beautiful World', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00382.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-b521-08dd05d91990', Name: '18105-00383', Description: 'Tabs - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00383.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-ea8c-08dd05d91cfe', Name: '18105-00384', Description: 'Teacher Handouts - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00384.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-727c-08dd05d9203a', Name: '18105-00385', Description: 'Planner (Upper Elementary) Student Handouts - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00385.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6ec9-08dd05d9239f', Name: '18105-00386', Description: 'Manuals - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00386.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-69bc-08dd05d927c7', Name: '18105-00387', Description: 'Observer (PreK-K) Student Handouts - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00387.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-939f-08dd05d92b60', Name: '18105-00388', Description: 'Scholar (Middle School) Student Handouts - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00388.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3a98-08dd05d92f31', Name: '18105-00389', Description: 'Large Cursive Handwriting Worksheets - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00389.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-cd28-08dd05d932dd', Name: '18105-00390', Description: 'Small Block Handwriting Worksheets - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00390.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-425f-08dd05d93683', Name: '18105-00391', Description: 'Large Block Handwriting Worksheets - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00391.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-578f-08dd05d93a2e', Name: '18105-00392', Description: 'Thinker (Early Elementary) Student Handouts - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00392.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f954-08dd05d93db3', Name: '18105-00393', Description: 'Timeline Cards - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00393.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-eaa6-08dd05d94146', Name: '18105-00394', Description: 'Small Cursive Handwriting Worksheets - Music, a Moral Law', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00394.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-c724-08dd05d944f7', Name: '18105-00395', Description: 'Tabs - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00395.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f379-08dd05d94884', Name: '18105-00396', Description: 'Teacher Handouts - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00396.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f95e-08dd05d94c05', Name: '18105-00397', Description: 'Planner (Upper Elementary) Student Handouts - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00397.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-4253-08dd05d94f8b', Name: '18105-00398', Description: 'Manuals - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00398.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ffa6-08dd05d953d4', Name: '18105-00399', Description: 'Observer (PreK-K) Student Handouts - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00399.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-30bf-08dd05d95828', Name: '18105-00400', Description: 'Scholar (Middle School) Student Handouts - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00400.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-ea1f-08dd05d95bfb', Name: '18105-00401', Description: 'Large Cursive Handwriting Worksheets - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00401.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f584-08dd05d95fce', Name: '18105-00402', Description: 'Small Block Handwriting Worksheets - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00402.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5831-08dd05d9637d', Name: '18105-00403', Description: 'Large Block Handwriting Worksheets - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00403.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-507c-08dd05d96761', Name: '18105-00404', Description: 'Thinker (Early Elementary) Student Handouts - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00404.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-037e-08dd05d96ad1', Name: '18105-00405', Description: 'Timeline Cards - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00405.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-b9d7-08dd05d96e45', Name: '18105-00406', Description: 'Small Cursive Handwriting Worksheets - Musical Roots', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00406.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3350-08dd05d9722d', Name: '18105-00407', Description: 'Tabs - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00407.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-302d-08dd05d975e2', Name: '18105-00408', Description: 'Teacher Handouts - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00408.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6ad3-08dd05d97984', Name: '18105-00409', Description: 'Planner (Upper Elementary) Student Handouts - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00409.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-d983-08dd05d97cec', Name: '18105-00410', Description: 'Manuals - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00410.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-6653-08dd05d98671', Name: '18105-00411', Description: 'Observer (PreK-K) Student Handouts - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00411.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-27bc-08dd05d98c99', Name: '18105-00412', Description: 'Scholar (Middle School) Student Handouts - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00412.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-153a-08dd05d99173', Name: '18105-00413', Description: 'Large Cursive Handwriting Worksheets - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00413.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-29e2-08dd05d99663', Name: '18105-00414', Description: 'Small Block Handwriting Worksheets - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00414.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8962-08dd05d99b46', Name: '18105-00415', Description: 'Large Block Handwriting Worksheets - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00415.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-9cc0-08dd05d9a00f', Name: '18105-00416', Description: 'Thinker (Early Elementary) Student Handouts - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00416.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-fe7c-08dd05d9a4dd', Name: '18105-00417', Description: 'Timeline Cards - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00417.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3667-08dd05d9a9ae', Name: '18105-00418', Description: 'Small Cursive Handwriting Worksheets - More Music - Sharper Minds!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00418.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-5d38-08dd05d9ae55', Name: '18105-00419', Description: 'Tabs - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00419.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-7fab-08dd05d9b32a', Name: '18105-00420', Description: 'Teacher Handouts - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00420.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-196b-08dd05d9b8bc', Name: '18105-00421', Description: 'Planner (Upper Elementary) Student Handouts - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00421.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-8aa4-08dd05d9bc0e', Name: '18105-00422', Description: 'Manuals - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00422.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5f9e-08dd05d9c051', Name: '18105-00423', Description: 'Observer (PreK-K) Student Handouts - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00423.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-e3cb-08dd05d9c44a', Name: '18105-00424', Description: 'Scholar (Middle School) Student Handouts - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00424.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-984c-08dd05d9c7e9', Name: '18105-00425', Description: 'Large Cursive Handwriting Worksheets - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00425.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-c3ca-08dd05d9cb9f', Name: '18105-00426', Description: 'Small Block Handwriting Worksheets - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00426.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-8767-08dd05d9cf48', Name: '18105-00427', Description: 'Large Block Handwriting Worksheets - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00427.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-bda3-08dd05d9d2f0', Name: '18105-00428', Description: 'Thinker (Early Elementary) Student Handouts - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00428.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-59dc-08dd05d9d662', Name: '18105-00429', Description: 'Tabs - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00429.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-3470-08dd05d9da19', Name: '18105-00430', Description: 'Small Cursive Handwriting Worksheets - Impossible to Silence!', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00430.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-4006-08dd05d9dd8d', Name: '18105-00431', Description: 'Teacher Handouts - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00431.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-3c22-08dd05d9e138', Name: '18105-00434', Description: 'Scholar (Middle School) Student Handouts - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00434.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-623b-08dd05d9e480', Name: '18105-00436', Description: 'Planner (Upper Elementary) Student Handouts - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00436.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-9159-08dd05d9e886', Name: '18105-00437', Description: 'Thinker (Early Elementary) Student Handouts - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00437.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-5da8-08dd05d9eff9', Name: '18105-00438', Description: 'Large Cursive Handwriting Worksheets - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00438.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-a768-08dd05d9f589', Name: '18105-00439', Description: 'Small Block Handwriting Worksheets - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00439.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-d6b6-08dd05d9fb3f', Name: '18105-00440', Description: 'Large Block Handwriting Worksheets - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00440.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-6f20-08dd05da025d', Name: '18105-00441', Description: 'Small Cursive Handwriting Worksheets - North America', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00441.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-8b97-08dd05da06ed', Name: '18105-00442', Description: 'Timeline Cards - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00442.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-6c11-08dd05da0bdf', Name: '18105-00443', Description: 'Flashcards - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00443.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-0ccf-08dd05da107e', Name: '18105-00444', Description: 'Tabs - Art of Antiquity', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00444.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'c40f0000-569f-0050-2646-08dd05da1512', Name: '18105-00446', Description: 'Thinker (Early Elementary) Student Handouts - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00446.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: 'f0080000-569f-0050-1bd2-08dd05da1d5a', Name: '18105-00447', Description: 'Planner (Upper Elementary) Student Handouts - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00447.pdf', UserDownloadable: false, …}
-testing.js:68 {AssetId: '801b0000-569f-0050-f03d-08dd05da22c5', Name: '18105-00448', Description: 'Scholar (Middle School) Student Handouts - Africa', Path: 'https://www.alphagraphicsmarketing.com/AHS/Assets/1115/18105-00448.pdf', UserDownloadable: false, …}
+98310000-569f-0050-b1a8-08dd08130d87', '18105-00001'
+04190000-569f-0050-8b79-08dd08131107', '18105-00002'
+04190000-569f-0050-9965-08dd08131bca', '18105-00003'
+04190000-569f-0050-8894-08dd08131ef8', '18105-00004'
+04190000-569f-0050-b91d-08dd0813238c', '18105-00005'
+98310000-569f-0050-4d14-08dd081326e3', '18105-00006'
+98310000-569f-0050-91e6-08dd08132b74', '18105-00007'
+242d0000-569f-0050-5fc4-08dd08132ff2', '18105-00008'
+242d0000-569f-0050-bf9c-08dd08133492', '18105-00009'
+04190000-569f-0050-707e-08dd0813392b', '18105-00010'
+04190000-569f-0050-b207-08dd08133c9a', '18105-00011'
+98310000-569f-0050-c697-08dd08134133', '18105-00012'
+04190000-569f-0050-a320-08dd081344a4', '18105-00013'
+04190000-569f-0050-543a-08dd08134829', '18105-00014'
+242d0000-569f-0050-5973-08dd08134d1f', '18105-00015'
+04190000-569f-0050-2a4e-08dd08135137', '18105-00016'
+98310000-569f-0050-3488-08dd0813549d', '18105-00017'
+98310000-569f-0050-134e-08dd08135942', '18105-00018'
+98310000-569f-0050-c34e-08dd08135d1b', '18105-00019'
+242d0000-569f-0050-7226-08dd08136245', '18105-00020'
+98310000-569f-0050-9497-08dd081367da', '18105-00021'
+242d0000-569f-0050-dcf2-08dd08136cb7', '18105-00022'
+242d0000-569f-0050-0fc1-08dd0813724e', '18105-00023'
+242d0000-569f-0050-48d0-08dd081375e8', '18105-00024'
+242d0000-569f-0050-a232-08dd08137959', '18105-00025'
+98310000-569f-0050-43f6-08dd08137ccf', '18105-00026'
+04190000-569f-0050-06dd-08dd08138035', '18105-00027'
+242d0000-569f-0050-8f1f-08dd08138490', '18105-00028'
+04190000-569f-0050-9439-08dd08138848', '18105-00029'
+242d0000-569f-0050-c78f-08dd08138c71', '18105-00030'
+98310000-569f-0050-da7f-08dd0813902b', '18105-00031'
+04190000-569f-0050-941e-08dd0813950c', '18105-00032'
+04190000-569f-0050-f849-08dd08139963', '18105-00033'
+98310000-569f-0050-4371-08dd08139ddd', '18105-00034'
+242d0000-569f-0050-94f6-08dd0813a28d', '18105-00035'
+98310000-569f-0050-ac49-08dd0813a85e', '18105-00036'
+04190000-569f-0050-66ad-08dd0813abdb', '18105-00037'
+04190000-569f-0050-4492-08dd0813af76', '18105-00038'
+98310000-569f-0050-a9c7-08dd0813b312', '18105-00039'
+98310000-569f-0050-ec02-08dd0813b686', '18105-00040'
+98310000-569f-0050-ef46-08dd0813ba7a', '18105-00041'
+98310000-569f-0050-5e1a-08dd0813c38b', '18105-00042'
+04190000-569f-0050-45c1-08dd0813c6c5', '18105-00043'
+04190000-569f-0050-0510-08dd0813d10f', '18105-00044'
+242d0000-569f-0050-2e7d-08dd0813d96b', '18105-00045'
+98310000-569f-0050-75c4-08dd0813e183', '18105-00046'
+04190000-569f-0050-fa4d-08dd0813e7cd', '18105-00047'
+04190000-569f-0050-db18-08dd0813ee23', '18105-00048'
+98310000-569f-0050-db8b-08dd0813f6a4', '18105-00049'
+04190000-569f-0050-a9e9-08dd0813fa62', '18105-00050'
+04190000-569f-0050-9955-08dd0813fdf1', '18105-00051'
+04190000-569f-0050-376d-08dd081401b5', '18105-00052'
+242d0100-569f-0050-d8e9-08dd0814055e', '18105-00053'
+242d0000-569f-0050-9a85-08dd08140b0c', '18105-00054'
+242d0000-569f-0050-6b3b-08dd08140e47', '18105-00055'
+98310000-569f-0050-5402-08dd081412a1', '18105-00056'
+98310000-569f-0050-c191-08dd081416fb', '18105-00057'
+98310000-569f-0050-6d51-08dd08141b22', '18105-00058'
+04190000-569f-0050-74b2-08dd08141ebf', '18105-00059'
+242d0000-569f-0050-ff52-08dd08142396', '18105-00060'
+242d0000-569f-0050-2fc8-08dd081428a5', '18105-00061'
+242d0000-569f-0050-ea21-08dd08142dce', '18105-00062'
+98310000-569f-0050-7d40-08dd08143146', '18105-00063'
+04190000-569f-0050-5ddf-08dd081434c6', '18105-00064'
+242d0000-569f-0050-d82d-08dd08143853', '18105-00065'
+242d0000-569f-0050-2908-08dd08143bdd', '18105-00066'
+98310000-569f-0050-a2bb-08dd08144102', '18105-00067'
+98310000-569f-0050-f712-08dd08144659', '18105-00070'
+04190000-569f-0050-f4c1-08dd08144be0', '18105-00071'
+04190000-569f-0050-8eb5-08dd08145068', '18105-00072'
+04190000-569f-0050-3f88-08dd08145698', '18105-00073'
+04190000-569f-0050-adac-08dd08145d35', '18105-00074'
+242d0000-569f-0050-8702-08dd08146397', '18105-00075'
+242d0000-569f-0050-ac85-08dd0814681f', '18105-00076'
+04190000-569f-0050-d18f-08dd08146cc0', '18105-00077'
+98310000-569f-0050-2763-08dd0814716b', '18105-00078'
+04190000-569f-0050-c2f5-08dd08147600', '18105-00079'
+04190000-569f-0050-4b05-08dd08147d7f', '18105-00080'
+04190000-569f-0050-274b-08dd081480d7', '18105-00081'
+04190000-569f-0050-2eb0-08dd08148414', '18105-00082'
+242d0000-569f-0050-0240-08dd08148848', '18105-00083'
+242d0000-569f-0050-1f33-08dd08148bd6', '18105-00084'
+98310000-569f-0050-6254-08dd081491be', '18105-00085'
+04190000-569f-0050-43c4-08dd08149614', '18105-00086'
+98310000-569f-0050-2fb5-08dd08149d25', '18105-00087'
+04190000-569f-0050-1611-08dd0814a11b', '18105-00088'
+04190000-569f-0050-1a87-08dd0814a496', '18105-00089'
+04190000-569f-0050-2bb8-08dd0814a81f', '18105-00090'
+242d0000-569f-0050-f52f-08dd0814abaf', '18105-00091'
+242d0000-569f-0050-e482-08dd0814af2e', '18105-00092'
+98310000-569f-0050-6e23-08dd0814b26d', '18105-00093'
+98310000-569f-0050-e7f1-08dd0814b5e6', '18105-00094'
+04190000-569f-0050-d82d-08dd0814ba42', '18105-00095'
+98310000-569f-0050-a309-08dd0814beb7', '18105-00096'
+242d0000-569f-0050-e368-08dd0814c2cf', '18105-00097'
+98310000-569f-0050-8462-08dd0814c75f', '18105-00098'
+242d0000-569f-0050-be9c-08dd0814cb4c', '18105-00099'
+04190000-569f-0050-a7ed-08dd0814cfba', '18105-00100'
+98310000-569f-0050-77c5-08dd0814d3e9', '18105-00101'
+242d0000-569f-0050-fa9b-08dd0814d772', '18105-00102'
+98310000-569f-0050-0e2a-08dd0814daf7', '18105-00103'
+242d0000-569f-0050-6583-08dd0814dec3', '18105-00104'
+04190000-569f-0050-f5b7-08dd0814e211', '18105-00105'
+242d0000-569f-0050-631e-08dd0814e55b', '18105-00106'
+98310000-569f-0050-64c6-08dd0814ea4c', '18105-00107'
+04190000-569f-0050-fdd5-08dd0814f137', '18105-00108'
+98310000-569f-0050-ebbb-08dd0814f963', '18105-00109'
+242d0000-569f-0050-f7a1-08dd0814fd18', '18105-00110'
+04190000-569f-0050-a757-08dd08150141', '18105-00111'
+98310000-569f-0050-f7ae-08dd08150558', '18105-00112'
+98310000-569f-0050-5412-08dd081508ca', '18105-00113'
+242d0000-569f-0050-35d6-08dd08150c4d', '18105-00114'
+98310000-569f-0050-1c8a-08dd08150fc5', '18105-00115'
+98310000-569f-0050-9820-08dd08151403', '18105-00116'
+242d0000-569f-0050-1c82-08dd081517a3', '18105-00117'
+98310000-569f-0050-79f1-08dd08151aeb', '18105-00118'
+242d0000-569f-0050-98ba-08dd08151f6d', '18105-00119'
+242d0000-569f-0050-4246-08dd081523c3', '18105-00120'
+98310000-569f-0050-9f6f-08dd081528f1', '18105-00121'
+98310000-569f-0050-5ea9-08dd08152d38', '18105-00122'
+04190000-569f-0050-219b-08dd0815316f', '18105-00123'
+04190000-569f-0050-605b-08dd081535ea', '18105-00124'
+98310000-569f-0050-3212-08dd08153967', '18105-00125'
+242d0000-569f-0050-7b7f-08dd08153d1c', '18105-00126'
+04190000-569f-0050-5f91-08dd08154099', '18105-00127'
+242d0000-569f-0050-ef6f-08dd08154419', '18105-00128'
+04190000-569f-0050-456c-08dd0815476d', '18105-00129'
+242d0000-569f-0050-148a-08dd08154aac', '18105-00130'
+98310000-569f-0050-f387-08dd08154edc', '18105-00131'
+242d0000-569f-0050-678e-08dd0815546b', '18105-00132'
+98310000-569f-0050-8835-08dd0815598e', '18105-00133'
+242d0000-569f-0050-4c38-08dd08155f01', '18105-00134'
+242d0000-569f-0050-ec70-08dd08156474', '18105-00135'
+98310000-569f-0050-a21d-08dd081569fe', '18105-00136'
+242d0000-569f-0050-17b6-08dd08156d76', '18105-00137'
+98310000-569f-0050-70d4-08dd081570fd', '18105-00138'
+04190000-569f-0050-6aaa-08dd08157469', '18105-00139'
+04190000-569f-0050-f197-08dd081577ed', '18105-00140'
+242d0000-569f-0050-6716-08dd08157be4', '18105-00141'
+242d0000-569f-0050-369e-08dd08157ee8', '18105-00142'
+98310000-569f-0050-579d-08dd0815821d', '18105-00143'
+242d0000-569f-0050-1d7f-08dd081585ec', '18105-00144'
+98310000-569f-0050-9186-08dd08158961', '18105-00145'
+04190000-569f-0050-0108-08dd08158d64', '18105-00146'
+98310000-569f-0050-5d8a-08dd08159141', '18105-00147'
+04190000-569f-0050-7fd2-08dd081594b5', '18105-00148'
+04190000-569f-0050-9f69-08dd08159887', '18105-00149'
+04190000-569f-0050-0f1a-08dd08159bb1', '18105-00150'
+242d0000-569f-0050-2154-08dd08159eda', '18105-00151'
+04190000-569f-0050-0d89-08dd0815a20a', '18105-00152'
+04190000-569f-0050-6112-08dd0815a556', '18105-00153'
+98310000-569f-0050-7f40-08dd0815a9d5', '18105-00154'
+04190000-569f-0050-4af8-08dd0815ad35', '18105-00155'
+242d0000-569f-0050-d5be-08dd0815b090', '18105-00156'
+98310000-569f-0050-6c75-08dd0815b49b', '18105-00157'
+98310000-569f-0050-3658-08dd0815b7c5', '18105-00158'
+242d0000-569f-0050-128d-08dd0815bb2c', '18105-00159'
+98310000-569f-0050-843b-08dd0815be9b', '18105-00160'
+04190000-569f-0050-b543-08dd0815c1e6', '18105-00161'
+242d0000-569f-0050-35e6-08dd0815c56b', '18105-00162'
+04190000-569f-0050-f408-08dd0815c896', '18105-00163'
+242d0000-569f-0050-aa61-08dd0815cbb8', '18105-00164'
+98310000-569f-0050-c667-08dd0815cf08', '18105-00165'
+98310000-569f-0050-9f77-08dd0815d229', '18105-00166'
+242d0000-569f-0050-8588-08dd0815d69b', '18105-00168'
+242d0000-569f-0050-7b01-08dd0815d9fc', '18105-00169'
+98310000-569f-0050-964a-08dd0815dfa0', '18105-00171'
+98310000-569f-0050-1345-08dd0815e394', '18105-00172'
+98310000-569f-0050-3b86-08dd0815e6d8', '18105-00173'
+242d0000-569f-0050-8cbe-08dd0815ea12', '18105-00174'
+04190000-569f-0050-c87c-08dd0815edb4', '18105-00175'
+242d0000-569f-0050-d26f-08dd0815f0d0', '18105-00176'
+242d0000-569f-0050-1492-08dd0815f3ea', '18105-00177'
+04190000-569f-0050-439f-08dd0815f7b2', '18105-00178'
+04190000-569f-0050-5461-08dd0815facf', '18105-00179'
+98310000-569f-0050-8eec-08dd0815fe8c', '18105-00180'
+04190000-569f-0050-927c-08dd081602fd', '18105-00181'
+04190000-569f-0050-a049-08dd081605c6', '18105-00182'
+242d0000-569f-0050-7549-08dd0816095f', '18105-00183'
+04190000-569f-0050-f2ca-08dd08160c78', '18105-00184'
+98310000-569f-0050-d73c-08dd08160fb7', '18105-00185'
+04190000-569f-0050-81db-08dd08161311', '18105-00186'
+98310000-569f-0050-2d0f-08dd0816165f', '18105-00187'
+04190000-569f-0050-2cfd-08dd08161990', '18105-00188'
+98310000-569f-0050-5b3c-08dd08161cc1', '18105-00189'
+242d0000-569f-0050-0262-08dd08162142', '18105-00190'
+04190000-569f-0050-b8d1-08dd0816246e', '18105-00191'
+04190000-569f-0050-8016-08dd08162795', '18105-00192'
+242d0000-569f-0050-9304-08dd08162bfa', '18105-00193'
+98310000-569f-0050-1bd2-08dd08162fe1', '18105-00194'
+242d0000-569f-0050-b182-08dd0816331a', '18105-00195'
+04190000-569f-0050-b502-08dd0816376b', '18105-00196'
+04190000-569f-0050-4b14-08dd08163a97', '18105-00197'
+242d0000-569f-0050-017a-08dd08163de6', '18105-00198'
+04190000-569f-0050-dedd-08dd08164192', '18105-00199'
+04190000-569f-0050-de7b-08dd08164529', '18105-00200'
+242d0000-569f-0050-9f18-08dd0816487b', '18105-00201'
+98310000-569f-0050-5bb6-08dd08164baf', '18105-00202'
+04190000-569f-0050-6e7a-08dd08164ebf', '18105-00203'
+04190000-569f-0050-e04f-08dd08165248', '18105-00204'
+98310000-569f-0050-76a1-08dd08165561', '18105-00205'
+242d0000-569f-0050-65c7-08dd08165897', '18105-00206'
+242d0000-569f-0050-bcd5-08dd08165b85', '18105-00207'
+04190000-569f-0050-4429-08dd08165eac', '18105-00208'
+98310000-569f-0050-17a0-08dd081661ff', '18105-00209'
+98310000-569f-0050-bb6c-08dd08166522', '18105-00210'
+98310000-569f-0050-d777-08dd08166841', '18105-00211'
+242d0000-569f-0050-0689-08dd08166b54', '18105-00212'
+98310000-569f-0050-7694-08dd08166e71', '18105-00213'
+98310000-569f-0050-684f-08dd08167184', '18105-00214'
+04190000-569f-0050-3f48-08dd08167483', '18105-00215'
+242d0000-569f-0050-2468-08dd0816779d', '18105-00216'
+04190000-569f-0050-0946-08dd08167acb', '18105-00217'
+98310000-569f-0050-42d7-08dd08167df4', '18105-00218'
+98310000-569f-0050-c66c-08dd081681e9', '18105-00219'
+98310000-569f-0050-7e26-08dd08168514', '18105-00220'
+242d0000-569f-0050-9dc4-08dd08168867', '18105-00221'
+04190000-569f-0050-5683-08dd08168c85', '18105-00222'
+04190000-569f-0050-059e-08dd08168fd8', '18105-00223'
+04190000-569f-0050-e42e-08dd081693a6', '18105-00224'
+04190000-569f-0050-41cb-08dd0816970a', '18105-00225'
+98310000-569f-0050-ba92-08dd08169a2d', '18105-00226'
+98310000-569f-0050-48b9-08dd08169d7c', '18105-00227'
+242d0000-569f-0050-7c9f-08dd0816a08d', '18105-00228'
+242d0000-569f-0050-7ebf-08dd0816a3d3', '18105-00229'
+04190000-569f-0050-888d-08dd0816a6ed', '18105-00230'
+242d0000-569f-0050-5587-08dd0816aa1d', '18105-00231'
+242d0000-569f-0050-8c3a-08dd0816ae29', '18105-00232'
+98310000-569f-0050-fe89-08dd0816b0f5', '18105-00233'
+04190000-569f-0050-f752-08dd0816b424', '18105-00234'
+98310000-569f-0050-8c3d-08dd0816b811', '18105-00235'
+242d0000-569f-0050-0472-08dd0816bb5f', '18105-00236'
+04190000-569f-0050-18bc-08dd0816bf80', '18105-00237'
+98310000-569f-0050-ed85-08dd0816c2e9', '18105-00238'
+04190000-569f-0050-f0df-08dd0816c63f', '18105-00239'
+98310000-569f-0050-58fd-08dd0816c9b9', '18105-00240'
+98310000-569f-0050-22af-08dd0816ccf0', '18105-00241'
+04190000-569f-0050-2cdb-08dd0816d048', '18105-00242'
+98310000-569f-0050-b822-08dd0816d364', '18105-00243'
+242d0000-569f-0050-04eb-08dd0816d691', '18105-00244'
+04190000-569f-0050-4e8a-08dd0816db8f', '18105-00245'
+98310000-569f-0050-67d5-08dd0816dec6', '18105-00246'
+98310000-569f-0050-8704-08dd0816e253', '18105-00247'
+04190000-569f-0050-4a8d-08dd0816e78f', '18105-00248'
+242d0000-569f-0050-6d8f-08dd0816eb28', '18105-00249'
+04190000-569f-0050-c9a3-08dd0816f013', '18105-00250'
+04190000-569f-0050-a7dd-08dd0816f4e2', '18105-00251'
+98310000-569f-0050-a5c2-08dd0816f8ba', '18105-00252'
+04190000-569f-0050-a620-08dd0816fd56', '18105-00253'
+242d0000-569f-0050-dc96-08dd08170161', '18105-00254'
+98310000-569f-0050-1e1c-08dd081704f7', '18105-00255'
+04190000-569f-0050-9f31-08dd0817087b', '18105-00256'
+98310000-569f-0050-b345-08dd08170c02', '18105-00257'
+04190000-569f-0050-d73f-08dd08170f38', '18105-00258'
+04190000-569f-0050-36a3-08dd08171280', '18105-00259'
+98310000-569f-0050-a323-08dd081717c0', '18105-00260'
+04190000-569f-0050-aa81-08dd08171b90', '18105-00261'
+242d0000-569f-0050-feff-08dd08172002', '18105-00262'
+242d0000-569f-0050-adcc-08dd08172404', '18105-00263'
+98310000-569f-0050-53d0-08dd081727b3', '18105-00264'
+98310000-569f-0050-eb08-08dd08172bbf', '18105-00265'
+242d0000-569f-0050-b806-08dd08172f3e', '18105-00266'
+98310000-569f-0050-77cf-08dd081732c3', '18105-00267'
+242d0000-569f-0050-1e44-08dd08173656', '18105-00268'
+04190000-569f-0050-5192-08dd081739d6', '18105-00269'
+04190000-569f-0050-6a49-08dd08173d61', '18105-00270'
+98310000-569f-0050-b1a2-08dd081740b5', '18105-00271'
+242d0000-569f-0050-0a16-08dd0817462d', '18105-00272'
+98310000-569f-0050-d903-08dd081749d3', '18105-00273'
+98310000-569f-0050-4306-08dd08174dae', '18105-00274'
+242d0000-569f-0050-7764-08dd08175167', '18105-00275'
+98310000-569f-0050-b27a-08dd08175537', '18105-00276'
+98310000-569f-0050-5b3b-08dd08175957', '18105-00277'
+04190000-569f-0050-172b-08dd08175cd2', '18105-00278'
+04190000-569f-0050-3d3c-08dd08176054', '18105-00279'
+98310000-569f-0050-9799-08dd081763d6', '18105-00280'
+242d0000-569f-0050-68b5-08dd08176757', '18105-00281'
+04190000-569f-0050-df8e-08dd08176a84', '18105-00282'
+04190000-569f-0050-7f4f-08dd08176dc4', '18105-00283'
+98310000-569f-0050-e976-08dd08177362', '18105-00284'
+04190000-569f-0050-8265-08dd081778ca', '18105-00285'
+98310000-569f-0050-1880-08dd08177eb8', '18105-00286'
+04190000-569f-0050-e830-08dd0817843e', '18105-00287'
+04190000-569f-0050-48c0-08dd08178a9e', '18105-00288'
+242d0000-569f-0050-9f00-08dd0817903f', '18105-00289'
+98310000-569f-0050-934a-08dd081794ee', '18105-00290'
+98310000-569f-0050-9cb0-08dd081799a3', '18105-00291'
+242d0000-569f-0050-d6ce-08dd08179e2a', '18105-00292'
+242d0000-569f-0050-7549-08dd0817a2bf', '18105-00294'
+04190000-569f-0050-0ff6-08dd0817a5f6', '18105-00295'
+04190000-569f-0050-d7d5-08dd0817ab12', '18105-00296'
+98310000-569f-0050-5bb0-08dd0817aeb2', '18105-00297'
+242d0000-569f-0050-e1d1-08dd0817b304', '18105-00298'
+98310000-569f-0050-3c5b-08dd0817b72c', '18105-00299'
+04190000-569f-0050-1685-08dd0817bb27', '18105-00300'
+04190000-569f-0050-7ac0-08dd0817c16c', '18105-00301'
+04190000-569f-0050-9a34-08dd0817c4e6', '18105-00302'
+04190000-569f-0050-9789-08dd0817c855', '18105-00303'
+98310000-569f-0050-8b78-08dd0817cbc7', '18105-00304'
+98310000-569f-0050-ca81-08dd0817cf3e', '18105-00305'
+98310000-569f-0050-c4f7-08dd0817d640', '18105-00306'
+98310000-569f-0050-9c56-08dd0817d919', '18105-00307'
+242d0000-569f-0050-b10c-08dd0817dc6d', '18105-00308'
+98310000-569f-0050-8a53-08dd0817e07d', '18105-00310'
+242d0000-569f-0050-1295-08dd0817e4af', '18105-00311'
+242d0000-569f-0050-c4eb-08dd0817e867', '18105-00312'
+04190000-569f-0050-fb0d-08dd0817ebfe', '18105-00313'
+04190000-569f-0050-2d65-08dd0817efa0', '18105-00314'
+242d0000-569f-0050-e361-08dd0817f32d', '18105-00315'
+98310000-569f-0050-954a-08dd0817f6b9', '18105-00316'
+98310000-569f-0050-eb4a-08dd0817fa4e', '18105-00317'
+98310000-569f-0050-86d8-08dd0817fe05', '18105-00318'
+242d0000-569f-0050-fcd3-08dd08180235', '18105-00319'
+98310000-569f-0050-a686-08dd08180593', '18105-00320'
+04190000-569f-0050-c750-08dd081808e3', '18105-00321'
+242d0000-569f-0050-32bf-08dd08180cfd', '18105-00322'
+242d0000-569f-0050-b6f3-08dd0818109e', '18105-00323'
+242d0000-569f-0050-34df-08dd081814b6', '18105-00324'
+242d0000-569f-0050-799b-08dd08181921', '18105-00325'
+242d0000-569f-0050-b8b8-08dd08181d63', '18105-00326'
+04190000-569f-0050-e934-08dd08182192', '18105-00327'
+98310000-569f-0050-3713-08dd08182520', '18105-00328'
+242d0000-569f-0050-3dd8-08dd081828ad', '18105-00329'
+242d0000-569f-0050-514e-08dd08182c53', '18105-00330'
+98310000-569f-0050-bf11-08dd0818304f', '18105-00331'
+242d0000-569f-0050-4feb-08dd081835ae', '18105-00332'
+242d0000-569f-0050-e03d-08dd08183900', '18105-00333'
+98310000-569f-0050-184a-08dd08183c77', '18105-00334'
+04190000-569f-0050-2c12-08dd08184135', '18105-00335'
+04190000-569f-0050-6428-08dd0818452a', '18105-00336'
+98310000-569f-0050-0b7a-08dd081848e8', '18105-00337'
+242d0000-569f-0050-fcf4-08dd08184cd9', '18105-00338'
+04190000-569f-0050-cf93-08dd081850b9', '18105-00339'
+04190000-569f-0050-dc71-08dd081854a4', '18105-00340'
+242d0000-569f-0050-da6b-08dd08185850', '18105-00341'
+242d0000-569f-0050-8fcd-08dd08185bf1', '18105-00342'
+98310000-569f-0050-29e4-08dd08185f7c', '18105-00343'
+242d0000-569f-0050-08ae-08dd0818639f', '18105-00344'
+04190000-569f-0050-5546-08dd0818676a', '18105-00345'
+04190000-569f-0050-20e8-08dd08186aeb', '18105-00346'
+98310000-569f-0050-1a6f-08dd08186e4f', '18105-00347'
+98310000-569f-0050-baa7-08dd081872a0', '18105-00348'
+04190000-569f-0050-b84e-08dd08187823', '18105-00349'
+98310000-569f-0050-7ebd-08dd08187bf7', '18105-00350'
+98310000-569f-0050-1595-08dd08187fb2', '18105-00351'
+98310000-569f-0050-fcc1-08dd081883bb', '18105-00352'
+242d0000-569f-0050-49cc-08dd0818878d', '18105-00353'
+04190000-569f-0050-c050-08dd08188b1d', '18105-00354'
+98310000-569f-0050-5d5f-08dd08188eb4', '18105-00355'
+04190000-569f-0050-2548-08dd08189252', '18105-00356'
+04190000-569f-0050-d4c0-08dd081895e5', '18105-00357'
+242d0000-569f-0050-97d4-08dd0818993f', '18105-00358'
+04190000-569f-0050-ff3b-08dd08189c55', '18105-00359'
+242d0000-569f-0050-2050-08dd08189fa7', '18105-00360'
+98310000-569f-0050-c062-08dd0818a428', '18105-00361'
+242d0000-569f-0050-711c-08dd0818a7e5', '18105-00362'
+242d0000-569f-0050-c086-08dd0818ac31', '18105-00363'
+98310000-569f-0050-99b2-08dd0818b011', '18105-00364'
+98310000-569f-0050-6f34-08dd0818b3d6', '18105-00365'
+98310000-569f-0050-4862-08dd0818b78f', '18105-00366'
+98310000-569f-0050-af42-08dd0818bb34', '18105-00367'
+242d0000-569f-0050-f5bc-08dd0818bec6', '18105-00368'
+242d0000-569f-0050-ddc3-08dd0818c26c', '18105-00369'
+04190000-569f-0050-687b-08dd0818c607', '18105-00370'
+242d0000-569f-0050-7335-08dd0818ce13', '18105-00372'
+98310000-569f-0050-852a-08dd0818d0fa', '18105-00373'
+98310000-569f-0050-43c4-08dd0818d460', '18105-00374'
+242d0000-569f-0050-b73e-08dd0818d881', '18105-00375'
+98310000-569f-0050-4a8c-08dd0818dc4c', '18105-00376'
+04190000-569f-0050-dce8-08dd0818e039', '18105-00377'
+242d0000-569f-0050-bdf7-08dd0818e3ef', '18105-00378'
+98310000-569f-0050-ae50-08dd0818e7e6', '18105-00379'
+242d0000-569f-0050-02d4-08dd0818eb9f', '18105-00380'
+242d0000-569f-0050-74fa-08dd0818ef1c', '18105-00381'
+242d0000-569f-0050-26a7-08dd0818f289', '18105-00382'
+98310000-569f-0050-5f4e-08dd0818f602', '18105-00383'
+242d0000-569f-0050-a153-08dd0818f9b1', '18105-00384'
+242d0000-569f-0050-def5-08dd0818fce9', '18105-00385'
+98310000-569f-0050-8e25-08dd08190037', '18105-00386'
+242d0000-569f-0050-ea36-08dd08190437', '18105-00387'
+98310000-569f-0050-52df-08dd0819082f', '18105-00388'
+242d0000-569f-0050-c7d6-08dd08190c03', '18105-00389'
+04190000-569f-0050-508b-08dd08190faf', '18105-00390'
+242d0000-569f-0050-25b8-08dd08191378', '18105-00391'
+98310000-569f-0050-4f81-08dd08191744', '18105-00392'
+242d0000-569f-0050-f093-08dd08191aeb', '18105-00393'
+04190000-569f-0050-9d80-08dd08191e7e', '18105-00394'
+242d0000-569f-0050-0ad9-08dd081921e8', '18105-00395'
+242d0000-569f-0050-f4ed-08dd0819256a', '18105-00396'
+98310000-569f-0050-11c7-08dd081929b6', '18105-00397'
+98310000-569f-0050-0357-08dd08192cff', '18105-00398'
+242d0000-569f-0050-6cc5-08dd081930f2', '18105-00399'
+242d0000-569f-0050-a7c5-08dd081935e0', '18105-00400'
+98310000-569f-0050-abaa-08dd08193bcf', '18105-00401'
+242d0000-569f-0050-7f1b-08dd08193f6a', '18105-00402'
+04190000-569f-0050-22a6-08dd08194311', '18105-00403'
+242d0000-569f-0050-9909-08dd081946f6', '18105-00404'
+04190000-569f-0050-aeb7-08dd08194aa2', '18105-00405'
+242d0000-569f-0050-c847-08dd08194e75', '18105-00406'
+04190000-569f-0050-096b-08dd08195232', '18105-00407'
+04190000-569f-0050-5f21-08dd08195593', '18105-00408'
+242d0000-569f-0050-e6bf-08dd0819595a', '18105-00409'
+04190000-569f-0050-c412-08dd08195c9e', '18105-00410'
+98310000-569f-0050-4e3b-08dd0819666e', '18105-00411'
+04190000-569f-0050-b808-08dd08196ba6', '18105-00412'
+98310000-569f-0050-4fea-08dd08197068', '18105-00413'
+04190000-569f-0050-22f5-08dd0819752e', '18105-00414'
+98310000-569f-0050-5b06-08dd08197a2e', '18105-00415'
+04190000-569f-0050-5514-08dd08197ef5', '18105-00416'
+242d0000-569f-0050-5b35-08dd081983e2', '18105-00417'
+04190000-569f-0050-9e2f-08dd081988ae', '18105-00418'
+242d0000-569f-0050-bf8c-08dd08198d5d', '18105-00419'
+98310000-569f-0050-97fc-08dd0819920f', '18105-00420'
+04190000-569f-0050-68a4-08dd081997fc', '18105-00421'
+98310000-569f-0050-35c9-08dd08199b7d', '18105-00422'
+98310000-569f-0050-dd94-08dd08199fa3', '18105-00423'
+04190000-569f-0050-5c26-08dd0819a39b', '18105-00424'
+98310000-569f-0050-fbc3-08dd0819a791', '18105-00425'
+242d0000-569f-0050-c3ca-08dd0819ab23', '18105-00426'
+242d0000-569f-0050-0ba2-08dd0819aef7', '18105-00427'
+04190000-569f-0050-7aaa-08dd0819b299', '18105-00428'
+04190000-569f-0050-f0c7-08dd0819b610', '18105-00429'
+04190000-569f-0050-a2c9-08dd0819b97d', '18105-00430'
+04190000-569f-0050-dc53-08dd0819bd16', '18105-00431'
+98310000-569f-0050-2362-08dd0819c085', '18105-00434'
+98310000-569f-0050-0375-08dd0819c3bb', '18105-00436'
+04190000-569f-0050-2089-08dd0819c7e4', '18105-00437'
+242d0000-569f-0050-1cd3-08dd0819ce58', '18105-00438'
+04190000-569f-0050-0a8d-08dd0819d488', '18105-00439'
+242d0000-569f-0050-065f-08dd0819dae1', '18105-00440'
+04190000-569f-0050-ce7c-08dd0819e080', '18105-00441'
+242d0000-569f-0050-73ac-08dd0819e4f7', '18105-00442'
+98310000-569f-0050-7963-08dd0819e98c', '18105-00443'
+04190000-569f-0050-7db9-08dd0819ee1b', '18105-00444'
+04190000-569f-0050-77bb-08dd0819f2aa', '18105-00446'
+98310000-569f-0050-d08c-08dd0819fb39', '18105-00447'
+04190000-569f-0050-2937-08dd081a009e', '18105-00448'
+
 
