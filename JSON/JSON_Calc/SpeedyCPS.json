@@ -1,0 +1,43 @@
+[
+    {
+        "Calc": {
+            "CalculatorName": "LPC450VLS-AG",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SpeedyCPS/Calculators/LPC450VLS-AG.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "LPC450VLS-GK",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SpeedyCPS/Calculators/LPC450VLS-GK.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "LPC450VLS-SC",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SpeedyCPS/Calculators/LPC450VLS-SC.xls"
+    },{
+        "Calc": {
+            "CalculatorName": "PC450LS-AG",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SpeedyCPS/Calculators/PC450LS-AG.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "PC450LS-GK",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SpeedyCPS/Calculators/PC450LS-GK.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "PC450LS-SC",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SpeedyCPS/Calculators/PC450LS-SC.xls"
+    }
+]
