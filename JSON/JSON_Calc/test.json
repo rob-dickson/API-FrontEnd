@@ -1,26 +1,23 @@
 [
     {
         "Calc": {
-            "CalculatorName": "Pricing Test 1",
+            "CalculatorName": "Test 1.0",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #6 Envelopes.xls.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Flynn/Calculators/42191-Flynn_ANSI_DECAL.xls"
     },
-
     {
         "Calc": {
-            "CalculatorName": "Pricing Test 2",
+            "CalculatorName": "Test 2.0",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #10 Envelopes (P&F).xls"
-    },    
-
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Flynn/Calculators/42191-Flynn_DailyInspectionRecords.xls"
+    },
     {
         "Calc": {
-            "CalculatorName": "Pricing Test 3",
+            "CalculatorName": "Test 3.0",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/Idaho Falls City/Pricing Engines/Idaho Falls CIty - #10 Envelopes (Window).xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Flynn/Calculators/42191-Flynn_HangTags.xls"
     }
-
 ]

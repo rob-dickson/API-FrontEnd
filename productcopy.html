@@ -1,0 +1,187 @@
+<script>
+    function getInfo() {
+        let domain = document.querySelector('#domain').value;
+        let username = document.querySelector('#username').value;
+        let password = document.querySelector('#password').value;
+        let jsonfile = document.querySelector('#jsonfile').files[0];
+        let SubscriberId = "7b4c94dc-b43e-4a2d-833a-58a6456148a2";
+        let ConsumerID = "1807430a-9b0c-4a10-8ad8-341616d058fa";
+        let url = `https://admin.chi.v6.pressero.com/api/site/${domain}/Assets`;
+        fetch('https://adminc.pro-matters.com/api/V2/Authentication', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                username: username,
+                password: password,
+                SubscriberId: SubscriberId,
+                ConsumerID: ConsumerID
+            })
+        })
+            .then(response => response.json())
+            .then(authData => {
+                console.log(authData);
+                if (authData.Token) {
+                    console.log(authData.Token);
+                    let reader = new FileReader();
+                    reader.onload = function (event) {
+                        let data = JSON.parse(event.target.result);
+                        const delay = 2000;
+                        const sendPostRequests = (dataArray, index) => {
+                            if (index >= dataArray.length) {
+                                console.log('All requests have been sent.');
+                                let done = document.querySelector('#done');
+                                done.innerHTML = `Assets upload complete`;
+                                done.style.color = "#d22a30";
+                                done.style.backgroundColor = "lightgrey";
+                                done.style.fontSize = "2em";
+                                return;
+                            }
+                            const obj = dataArray[index];
+                            const json = JSON.stringify(obj);
+                            console.log('Sending request with data:', json);
+                            fetch(url, {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/json',
+                                    'Authorization': 'token ' + authData.Token
+                                },
+                                body: json
+                            })
+                                .then(response => {
+                                    if (!response.ok) {
+                                        return response.text().then(text => { throw new Error(text) });
+                                    }
+                                    return response.json();
+                                })
+                                .then(responseData => {
+                                    console.log(responseData);
+                                    let done = document.querySelector('#done');
+                                    let randomColor = "#" + Math.floor(Math.random() * 16777215).toString(16);
+                                    done.innerHTML = `Assets Uploading...`;
+                                    done.style.color = randomColor;
+                                    done.style.backgroundColor = "white";
+                                    setTimeout(() => {
+                                        sendPostRequests(dataArray, index + 1);
+                                    }, delay);
+                                })
+                                .catch(error => {
+                                    console.error('Error:', error);
+                                    setTimeout(() => {
+                                        sendPostRequests(dataArray, index + 1);
+                                    }, delay);
+                                });
+                        };
+                        sendPostRequests(data, 0);
+                    };
+                    reader.onerror = function (event) {
+                        console.error('Error reading file:', event.target.error);
+                    };
+                    reader.readAsText(jsonfile);
+                } else {
+                    console.error('Authentication failed:', authData.error);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+    }
+</script>
+<style>
+    section {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .formSection {
+        margin: 3em auto auto;
+        padding: 2em;
+        width: 35em;
+        background: rgb(211, 211, 211, 0.3);
+        border: 1px solid rgb(128, 128, 128);
+        border-radius: .5em;
+    }
+
+    form {
+        background-color: white;
+        border-radius: .5em;
+        padding: 1em;
+        border: 1px solid rgb(0, 0, 0);
+    }
+
+    fieldset {
+        display: flex;
+        flex-direction: column;
+    }
+
+    section fieldset div input.btn {
+        margin-top: 1em;
+        background-color: rgba(214, 48, 54, 1);
+        text-align: center;
+        color: white;
+    }
+
+    section fieldset div input.btn:hover {
+        transform: scale(1.1);
+        background-color: rgba(214, 48, 54, .5);
+        border: 3px solid black;
+    }
+
+    #done {
+        padding: .5em;
+        width: fit-content;
+        border-radius: .5em;
+        text-align: center;
+    }
+
+    .message {
+        border-radius: .5em;
+        text-align: center;
+    }
+
+    .info {
+        padding: 4em;
+    }
+
+    .info h2,
+    .info h3 {
+        text-align: center;
+        padding-bottom: 1em;
+    }
+
+    .info h4,
+    .info p {
+        padding-bottom: 1em;
+    }
+
+    div.page {
+        display: flex;
+        flex-direction: row;
+        padding: 2em;
+    }
+
+    .info {
+        padding: 2em;
+        width: 50vw;
+    }
+</style>
+<section class="formSection">
+    <form style="padding: .5em;">
+        <fieldset style="padding: .5em;">
+            <legend style="padding: .5em;">ASSET UPLOAD API</legend> <label for="domain" style="padding: .5em;">Please
+                Enter Domain</label> <input id="domain" type="text" required="" placeholder="ahs.brandfulfillment.store"
+                style="padding: .5em;" /><label for="username" style="padding: .5em;">Please Enter
+                Admin Username</label> <input id="username" type="text" required="" style="padding: .5em;" /><label
+                for="password" style="padding: .5em;">Please Enter
+                Admin Password</label> <input id="password" type="password" required="" style="padding: .5em;" /><label
+                for="jsonfile" style="padding: .5em;">Please
+                Upload JSON File</label> <input id="jsonfile" type="file" accept=".json" required="" /
+                style="padding: .5em;">
+            <div style="text-align:center;padding: .5em;"><input style="padding: .5em;" class="btn"
+                    src="images/search.png" alt="icon" value="Submit" onclick="getInfo()" /></div>
+            <div style="text-align:center;" class="message">
+                <p id="done">&nbsp;</p>
+            </div>
+        </fieldset>
+    </form>
+</section>

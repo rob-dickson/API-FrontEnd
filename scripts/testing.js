@@ -37,6 +37,7 @@ function getInfo() {
                         // Define the delay between each request (in milliseconds)
                         const delay = 2000; // 2sec
 
+
                         // Function to send the POST requests with a delay
                         const sendPostRequests = (dataArray, index) => {
                             if (index >= dataArray.length) {
