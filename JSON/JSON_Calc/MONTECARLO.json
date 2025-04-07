@@ -1,0 +1,1471 @@
+[
+  {
+    "Calc": {
+      "CalculatorName": "38532-00078",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.049,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00093",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.001,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00094",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.004,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00079",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.108,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00081",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.55,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00082",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.019,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00038",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.41,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00039",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.435,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00040",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00041",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.47,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00042",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.32,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00095",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.01,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00118",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.595,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00119",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.627,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00120",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.671,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00121",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.545,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00122",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.517,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00123",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.472,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00124",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.555,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00125",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.465,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00075",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.094,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00085",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.013,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00096",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.126,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00097",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.001,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00098",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.154,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00099",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.003,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00100",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.003,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00101",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.004,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00076",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 1.126,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00043",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.736,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00044",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.631,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00045",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.594,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00046",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.685,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00047",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.501,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00048",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.381,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00049",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.348,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00050",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.284,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00051",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.429,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00052",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.493,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00053",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.371,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00054",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.346,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00055",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.284,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00056",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.444,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00077",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 1.0,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00102",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.129,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00103",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.003,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00104",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.129,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00105",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.003,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00001",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.005,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00002",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00003",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.47,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00004",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.342,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00005",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.491,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00006",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.386,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00007",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.353,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00008",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.293,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00009",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.443,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00010",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00011",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.38,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00012",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00013",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.3,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00014",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.426,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00015",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00016",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00017",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00018",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.306,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00019",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.443,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00020",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.5,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00021",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.393,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00022",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.34,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00023",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.299,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00024",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.441,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00025",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.505,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00026",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.382,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00027",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.338,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00028",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.472,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00057",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00058",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.567,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00059",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00029",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.402,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00030",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.275,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00031",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.327,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00032",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.372,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00177",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.283,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00060",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00061",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.53,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00062",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00063",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.604,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00064",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00087",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.065,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00065",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.496,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00066",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.43,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00067",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.407,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00068",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00069",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.449,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00088",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.369,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00089",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.054,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00090",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.059,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00106",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.114,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00107",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.001,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00071",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 1.104,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00091",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.019,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00092",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.03,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00108",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.001,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00072",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 1.245,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00073",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 1.098,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00074",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 1.32,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00033",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00034",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00035",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00036",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00037",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.45,
+        "Cost": 0
+      }
+    ]
+  },
+  {
+    "Calc": {
+      "CalculatorName": "38532-00169",
+      "Method": "PriceBreaks"
+    },
+    "PriceBreakList": [
+      {
+        "Amount": 1,
+        "Weight": 0.34,
+        "Cost": 0
+      }
+    ]
+  }
+]
