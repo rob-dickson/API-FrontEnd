@@ -1,0 +1,83 @@
+
+
+
+[
+
+    {
+        "Calc": {
+            "CalculatorName": "00000_TariffSite-Banner",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/00000_TariffSite-Banner.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "00000_TariffSite-Hat",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/00000_TariffSite-Hat.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-Banner",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-Banner.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-BumperSticker",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-BumperSticker.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-Hat",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-Hat.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-KioskSign",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-KioskSign.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-Shirts",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-Shirts.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-Stickers",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-Stickers.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-WindowDecal",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-WindowDecal.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "01036_Tariff-Yard Sign",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/01036_Tariff-Yard Sign.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "Hat",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Tariff/Calc/Hat.xlsx"
+    }
+]
