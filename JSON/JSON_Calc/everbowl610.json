@@ -69,4 +69,76 @@
         },
         "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculator/23137_Everbowl_RecipieCardSet10.xls"
     }
+=======
+[
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet1",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet1.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet2",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet2.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet3",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet3.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet4",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet4.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet5",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet5.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet6",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet6.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet7",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet7.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet8",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet8.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet9",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet9.xls"
+    },
+    {
+        "Calc": {
+            "CalculatorName": "23137_Everbowl_RecipieCardSet10",
+            "Method": "Calculator"
+        },
+        "FileUrl": "https://www.alphagraphicsmarketing.com/Everbowl/Calculators/23137_Everbowl_RecipieCardSet10.xls"
+    }
 ]
