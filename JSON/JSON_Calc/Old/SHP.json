@@ -1,49 +1,44 @@
 [
     {
         "Calc": {
-            "CalculatorName": "SHP - 1.15Buttons",
+            "CalculatorName": "05266-SHP-2.5x5-Banner",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/1.15Buttons.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/05266-SHP-2.5x5-Banner.xls"
     },
-    
     {
         "Calc": {
-            "CalculatorName": "SHP - 2.5RoundStickers",
+            "CalculatorName": "05266-SHP-8x5-Banner",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/2.5RoundStickers.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/05266-SHP-8x5-Banner.xls"
     },
-    
     {
         "Calc": {
-            "CalculatorName": "SHP - 2.25BunkButtons",
+            "CalculatorName": "05266-SHP-Brochures",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/2.25BunkButtons.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/05266-SHP-Brochures.xls"
     },
-    
     {
         "Calc": {
-            "CalculatorName": "SHP - 2.25Bunk Buttons",
+            "CalculatorName": "05266-SHP-ChristmasCard",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/2.25BunkButtons.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/05266-SHP-ChristmasCard.xls"
     },
-
     {
         "Calc": {
-            "CalculatorName": "SHP - BusinessCards",
+            "CalculatorName": "05266-SHP-DonationReciptPad",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/BusinessCards.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/05266-SHP-DonationReciptPad.xls"
     },
-    
     {
         "Calc": {
-            "CalculatorName": "SHP - 3x1.75 Sticker",
+            "CalculatorName": "05266-SHP-ThankYouCard",
             "Method": "Calculator"
         },
-        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/3x1.75Sticker.xls"
+        "FileUrl": "https://www.alphagraphicsmarketing.com/SHP/PricingEngines/05266-SHP-ThankYouCard.xls"
     }
 ]
