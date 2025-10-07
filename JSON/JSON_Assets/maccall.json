@@ -1,0 +1,524 @@
+
+[
+    {
+        "Name": "40978-00006",
+        "Description": "Horizontal Rack Cards - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00006-HorizontalSLC.Rack.Card.9x4.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-a009-08ddf747ae8e",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00007",
+        "Description": "Horizontal Rack Cards - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00007-HorizontalWVC.Rack.Card.9x4.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-b2c0-08ddf747aea1",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00008",
+        "Description": "Horizontal Rack Cards - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00008-HorizontalMDV.Rack.Card.9x4.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-4086-08ddf747aeae",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00009",
+        "Description": "Horizontal Rack Cards - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00009-HorizontalGF.Rack.Card.9x4.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-2c6c-08ddf747aeba",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00010",
+        "Description": "Vertical Rack Cards - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00010-VerticalSLC.Rack.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0100-569f-0050-4663-08ddf747aed7",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00011",
+        "Description": "Vertical Rack Cards - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00011-VerticalWVC.Rack.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-9495-08ddf747aee5",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00012",
+        "Description": "Vertical Rack Cards - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00012-VerticalMDV.Rack.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-1e8c-08ddf747aeef",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00013",
+        "Description": "Vertical Rack Cards - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00013-VerticalGF.Rack.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-b276-08ddf747aef8",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00014",
+        "Description": "Rack Card - Generic",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00014-2025.TS.Rack.Updated.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-c531-08ddf747af0b",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00015",
+        "Description": "Corporate Rates",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00015-Corp.Rate.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-b1a5-08ddf747af17",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00016",
+        "Description": "Sports Flyer",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00016-SLC.Sports.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-88ad-08ddf747af2f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00017",
+        "Description": "Medical Business Cards - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00017-SLC.Medical.Discount.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-4d5b-08ddf747af57",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00018",
+        "Description": "Medical Business Cards - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00018-WVC.Medical.Discount.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-3960-08ddf747af63",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00019",
+        "Description": "Medical Business Cards - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00019-MDV.Medical.Discount.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-25fc-08ddf747af6f",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00020",
+        "Description": "Medical Business Cards - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00020-GF.Medical.Discount.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-1115-08ddf747af7b",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00021",
+        "Description": "Fact Sheets - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00021-SLC.Fact.Sheet.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-abca-08ddf747afff",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00022",
+        "Description": "Fact Sheets - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00022-WVC.Fact.Sheet.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-b1bd-08ddf747b02e",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00023",
+        "Description": "Fact Sheets - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00023-MDV.Fact.Sheet.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-3b19-08ddf747b038",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00024",
+        "Description": "Fact Sheets - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00024-GF.Fact.Sheet.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-c470-08ddf747b041",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00025",
+        "Description": "Team Flyer - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00025-SLC.Team.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-39e6-08ddf747b057",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00026",
+        "Description": "Team Flyer - West Valley ",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00026-WVC.Team.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-87f8-08ddf747b065",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00027",
+        "Description": "Team Flyer - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00027-MDV.Team.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-79c4-08ddf747b081",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00028",
+        "Description": "Team Flyer - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00028-GF.Team.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-8638-08ddf747b08b",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00029",
+        "Description": "Bereavement Flyer - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00029-SLC.Bereavement.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-d4b0-08ddf747b099",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00030",
+        "Description": "Bereavement Flyer - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00030-WVC.Bereavement.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-02d9-08ddf747b0b2",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00031",
+        "Description": "Bereavement Flyer - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00031-MDV.Bereavement.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-ee9b-08ddf747b0bd",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00032",
+        "Description": "Bereavement Flyer - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00032-GF.Bereavement.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "a81d0000-569f-0050-f3f2-08ddf747b0ce",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00033",
+        "Description": "Sports Flyer - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00033-WVC.Sports.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-0aea-08de05dcbfb9",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00034",
+        "Description": "Sports Flyer - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00034-MDV.Sports.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-74a2-08de05dcbfdd",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00035",
+        "Description": "Sports Flyer - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00035-GF.Sports.Card.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-250f-08de05dcbfee",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00036",
+        "Description": "Government Flyer - Downtown",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00036-SLC.Government.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-58f8-08de05dcbffc",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00037",
+        "Description": "Government Flyer - West Valley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00037-WVC.Government.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-55d6-08de05dcc008",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00038",
+        "Description": "Government Flyer - Midvalley",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00038-MDV.Government.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-f63b-08de05dcc016",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "40978-00039",
+        "Description": "Government Flyer - Great Falls",
+        "Path": "https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00039-GF.Government.Flyer.2025.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "6c1f0000-569f-0050-466c-08de05dcc024",
+        "AssetCategoryId": null
+    }
+]
+
+
+testing.js:28 {Token: 'C00A0000-569F-0050-D21A-08DE05DD816B'}
+testing.js:31 C00A0000-569F-0050-D21A-08DE05DD816B
+testing.js:69 {AssetId: 'c00a0000-569f-0050-7bc7-08de05dd81ba', Name: '40978-00006', Description: 'Horizontal Rack Cards - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…/40978-00006-HorizontalSLC.Rack.Card.9x4.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…/40978-00006-HorizontalSLC.Rack.Card.9x4.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-5751-08de05dd8ed9', Name: '40978-00007', Description: 'Horizontal Rack Cards - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…/40978-00007-HorizontalWVC.Rack.Card.9x4.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…/40978-00007-HorizontalWVC.Rack.Card.9x4.2025.pdf', …}
+testing.js:69 {AssetId: 'bc200000-569f-0050-6b11-08de05dd9456', Name: '40978-00008', Description: 'Horizontal Rack Cards - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…/40978-00008-HorizontalMDV.Rack.Card.9x4.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…/40978-00008-HorizontalMDV.Rack.Card.9x4.2025.pdf', …}
+testing.js:69 {AssetId: 'bc200000-569f-0050-9d56-08de05dd97b0', Name: '40978-00009', Description: 'Horizontal Rack Cards - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…s/40978-00009-HorizontalGF.Rack.Card.9x4.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Ass…s/40978-00009-HorizontalGF.Rack.Card.9x4.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-732c-08de05dd9c52', Name: '40978-00010', Description: 'Vertical Rack Cards - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00010-VerticalSLC.Rack.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00010-VerticalSLC.Rack.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-2c59-08de05dda090', Name: '40978-00011', Description: 'Vertical Rack Cards - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00011-VerticalWVC.Rack.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00011-VerticalWVC.Rack.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'bc200000-569f-0050-483e-08de05dda33d', Name: '40978-00012', Description: 'Vertical Rack Cards - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00012-VerticalMDV.Rack.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00012-VerticalMDV.Rack.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-7489-08de05dda5f0', Name: '40978-00013', Description: 'Vertical Rack Cards - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00013-VerticalGF.Rack.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00013-VerticalGF.Rack.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'bc200000-569f-0050-afb4-08de05dda893', Name: '40978-00014', Description: 'Rack Card - Generic', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00014-2025.TS.Rack.Updated.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00014-2025.TS.Rack.Updated.pdf', …}
+testing.js:69 {AssetId: 'bc200000-569f-0050-4072-08de05ddab1f', Name: '40978-00015', Description: 'Corporate Rates', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00015-Corp.Rate.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00015-Corp.Rate.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-432d-08de05ddb82a', Name: '40978-00016', Description: 'Sports Flyer', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00016-SLC.Sports.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00016-SLC.Sports.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-c51c-08de05ddbbf1', Name: '40978-00017', Description: 'Medical Business Cards - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00017-SLC.Medical.Discount.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00017-SLC.Medical.Discount.Card.2025.pdf', …}
+testing.js:69 {AssetId: '6c1f0000-569f-0050-00e7-08de05ddc323', Name: '40978-00018', Description: 'Medical Business Cards - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00018-WVC.Medical.Discount.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00018-WVC.Medical.Discount.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-970d-08de05ddf040', Name: '40978-00019', Description: 'Medical Business Cards - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00019-MDV.Medical.Discount.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00019-MDV.Medical.Discount.Card.2025.pdf', …}
+testing.js:69 {AssetId: '6c1f0000-569f-0050-6c99-08de05ddf2e8', Name: '40978-00020', Description: 'Medical Business Cards - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00020-GF.Medical.Discount.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00020-GF.Medical.Discount.Card.2025.pdf', …}
+testing.js:69 {AssetId: '6c1f0000-569f-0050-fa51-08de05ddf5e1', Name: '40978-00021', Description: 'Fact Sheets - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00021-SLC.Fact.Sheet.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00021-SLC.Fact.Sheet.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-6e7f-08de05ddfa00', Name: '40978-00022', Description: 'Fact Sheets - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00022-WVC.Fact.Sheet.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00022-WVC.Fact.Sheet.2025.pdf', …}
+testing.js:69 {AssetId: '6c1f0000-569f-0050-df41-08de05ddfd7f', Name: '40978-00023', Description: 'Fact Sheets - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00023-MDV.Fact.Sheet.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00023-MDV.Fact.Sheet.2025.pdf', …}
+product.html:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+product.html:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+product.html:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+product.html:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+product.html:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+testing.js:69 {AssetId: '6c1f0000-569f-0050-c737-08de05de6ec1', Name: '40978-00024', Description: 'Fact Sheets - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00024-GF.Fact.Sheet.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00024-GF.Fact.Sheet.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-d4d4-08de05de7661', Name: '40978-00025', Description: 'Team Flyer - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00025-SLC.Team.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00025-SLC.Team.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-067b-08de05de7bba', Name: '40978-00026', Description: 'Team Flyer - West Valley ', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00026-WVC.Team.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00026-WVC.Team.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0100-569f-0050-51c3-08de05de8119', Name: '40978-00027', Description: 'Team Flyer - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00027-MDV.Team.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00027-MDV.Team.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-afb7-08de05de8550', Name: '40978-00028', Description: 'Team Flyer - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00028-GF.Team.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00028-GF.Team.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-24b3-08de05de8aa5', Name: '40978-00029', Description: 'Bereavement Flyer - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00029-SLC.Bereavement.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00029-SLC.Bereavement.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-ae0e-08de05de8ed5', Name: '40978-00030', Description: 'Bereavement Flyer - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00030-WVC.Bereavement.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00030-WVC.Bereavement.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-6a73-08de05de92ff', Name: '40978-00031', Description: 'Bereavement Flyer - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00031-MDV.Bereavement.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00031-MDV.Bereavement.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-dd7c-08de05de9724', Name: '40978-00032', Description: 'Bereavement Flyer - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00032-GF.Bereavement.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00032-GF.Bereavement.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-9166-08de05de9b51', Name: '40978-00033', Description: 'Sports Flyer - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00033-WVC.Sports.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00033-WVC.Sports.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-aa9b-08de05de9f85', Name: '40978-00034', Description: 'Sports Flyer - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00034-MDV.Sports.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00034-MDV.Sports.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-0a3a-08de05dea3aa', Name: '40978-00035', Description: 'Sports Flyer - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00035-GF.Sports.Card.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00035-GF.Sports.Card.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-cdd5-08de05dea7da', Name: '40978-00036', Description: 'Government Flyer - Downtown', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00036-SLC.Government.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00036-SLC.Government.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-0b78-08de05deac0a', Name: '40978-00037', Description: 'Government Flyer - West Valley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00037-WVC.Government.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00037-WVC.Government.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'c00a0000-569f-0050-ecef-08de05deb047', Name: '40978-00038', Description: 'Government Flyer - Midvalley', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00038-MDV.Government.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00038-MDV.Government.Flyer.2025.pdf', …}
+testing.js:69 {AssetId: 'e8030000-569f-0050-3a5e-08de05deb58c', Name: '40978-00039', Description: 'Government Flyer - Great Falls', Path: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00039-GF.Government.Flyer.2025.pdf', FullPath: 'https://www.alphagraphicsmarketing.com/MacCall/Assets/40978-00039-GF.Government.Flyer.2025.pdf', …}
+testing.js:45 All requests have been sent.
+
