@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "53738-00005",
+        "Description": "FMB Note Card Envelope",
+        "Path": "https://www.alphagraphicsmarketing.com/FirstMontanaBank/Assets/53738-00005.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "34350100-569f-0050-b35b-08de0b60f697",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "53738-00006",
+        "Description": "FMB Bancorp 10 Regular Envelope",
+        "Path": "https://www.alphagraphicsmarketing.com/FirstMontanaBank/Assets/53738-00006.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "34350000-569f-0050-e45b-08de0b60f6a8",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "53738-00007",
+        "Description": "FMB Thank You Note Card",
+        "Path": "https://www.alphagraphicsmarketing.com/FirstMontanaBank/Assets/53738-00007.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "34350000-569f-0050-0b6e-08de0b60f6b8",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "53738-00008",
+        "Description": "FMB Your Account Number Card",
+        "Path": "https://www.alphagraphicsmarketing.com/FirstMontanaBank/Assets/53738-00008.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "34350000-569f-0050-c2eb-08de0b60f6c8",
+        "AssetCategoryId": null
+    }
+]

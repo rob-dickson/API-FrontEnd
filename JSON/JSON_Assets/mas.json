@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "55125-00003",
+        "Description": "Missoula Aging Services Generic BC",
+        "Path": "https://www.alphagraphicsmarketing.com/MissoulaAgingServices/Assets/55125-00003.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "183b0000-569f-0050-556d-08de0b6a5fd6",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "55125-00004",
+        "Description": "Missoula Aging Services Standard Agency LH",
+        "Path": "https://www.alphagraphicsmarketing.com/MissoulaAgingServices/Assets/55125-00004.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "183b0000-569f-0050-05f2-08de0b6a5fe7",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "55125-00005",
+        "Description": "Missoula Aging Services Standard Agency No. 10 Envelope",
+        "Path": "https://www.alphagraphicsmarketing.com/MissoulaAgingServices/Assets/55125-00005.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "183b0000-569f-0050-f84b-08de0b6a6002",
+        "AssetCategoryId": null
+    }
+]

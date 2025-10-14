@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "47191-00005",
+        "Description": "WMC Lab Specific Business Card",
+        "Path": "https://www.alphagraphicsmarketing.com/WesternMTClinic/Assets/47191-00005.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e8010000-569f-0050-66fd-08de0b6790ac",
+        "AssetCategoryId": null
+    },
+    {
+        "Name": "47191-00006",
+        "Description": "WMC TMI Financial Counseling BC",
+        "Path": "https://www.alphagraphicsmarketing.com/WesternMTClinic/Assets/47191-00006.pdf",
+        "UserDownloadable": false,
+        "IsLocal": false,
+        "AssetType": 2,
+        "AssetUsage": "Product",
+        "ThumbnailPath": null,
+        "GenerateThumbnailForExternalURL": true,
+        "GroupId": null,
+        "ProductId": "e8010000-569f-0050-07f4-08de0b6790ba",
+        "AssetCategoryId": null
+    }
+]
